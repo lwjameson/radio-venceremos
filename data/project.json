@@ -8,8 +8,8 @@
   "project": {
     "github_org": "AVAnnotate",
     "is_private": false,
-    "title": "Radio Venceremos Final Project",
-    "description": "Here is the final one, with all events and with the dual annotations.",
+    "title": "Radio Venceremos",
+    "description": "This project explores Radio Venceremos",
     "language": "en",
     "slug": "radio-venceremos",
     "creator": "jackDeVry",
@@ -684,7 +684,7 @@
       ]
     },
     "created_at": "2025-01-08T18:30:30.873Z",
-    "updated_at": "2025-01-08T19:35:47.460Z",
+    "updated_at": "2025-01-08T19:46:32.180Z",
     "generate_pages_site": true
   },
   "is_private": false
