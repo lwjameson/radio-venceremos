@@ -1,5 +1,2883 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 6,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…united will never be defeated\nThe united people will never be defeated\nThe united people will never be defeated\nThe united people will never be defeated\n\nStand up, sing\nthat we are going to succeed.\nThey are advancing now\nunity flags.\nand you will come\nmarching next to me\nand so you will see\nyour song and your flag\nflourish,\nthe light\nof a red dawn\nannounce now\nthe life to come\n\nStand, march,\nThe people are going to triumph.\nIt will be better\nthe life to come\nto conquer\nour happiness\nand in a clamor\na thousand voices of combat will be raised"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "21f61a1e-711b-47c7-a407-34bb6d000229"
+    },
+    {
+      "start_time": 66,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos broadcasts, official voice of the Farabundo Martí National Liberation Front. Emitting its signal of freedom from El Salvador, Central America, a territory in combat against oppression and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e2fd46fa-e9a4-49aa-bb89-ec53906c7825"
+    },
+    {
+      "start_time": 88,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people united will never be defeated\nThe people united will never be defeated\nThe homeland is\nForging unity\nFrom north to south\nwill be mobilized\nFrom the salt flat\nFiery and mineral"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "2ae4e2aa-5100-4a43-a9f5-6a640a764bd8"
+    },
+    {
+      "start_time": 109,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, official voice of the Farabundo Martí National Liberation Front, broadcasts its signal of freedom from the Francisco Sánchez Eastern Front that includes the Salvadoran departments of Usulután, San Miguel, La Unión and Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a2cba943-3862-4715-bfa9-008bac84c322"
+    },
+    {
+      "start_time": 132,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…the truth\nThey are made of steel\nFiery battalion\nHis hands go\nBringing justice and reason\nWomen\nWith fire and with courage\nYou are already here..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "e8eb9bc8-39e5-4ab2-a9df-7c6ca439faae"
+    },
+    {
+      "start_time": 147,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, expression of popular power over controlled territories, transmits from Morazán every day from 6:00 AM to 7:00 AM and from 6:00 PM to 7:00 PM through the international frequency of 40 meters 7 megahertz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "dacc3383-d1eb-49c0-a8f0-40050e58f902"
+    },
+    {
+      "start_time": 171,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people united will never be defeated\nThe people united will never be defeated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "dc8a9d2a-4c25-4908-a03c-42a9b3018e2a"
+    },
+    {
+      "start_time": 178,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our post office box, 7-907, México, Distrito Federal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "865ea22b-e7e1-4073-9a47-007f4f7f4219"
+    },
+    {
+      "start_time": 189,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now the people\nThat rises in the fight\nWith the voice of a giant\nShouting: go ahead!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "0dc4cf1a-02bd-4224-9d46-f50b6dd9b545"
+    },
+    {
+      "start_time": 198,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, official voice of the Farabundo Martí Front for National Liberation, begins its broadcast of this hour by saluting the popular advance registered during 1981. We salute the advance of the historic struggle for national liberation that in this past year reached such levels that it places our people in a position to be the master of their destiny."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos\nFMLN"
+        }
+      ],
+      "uuid": "a6da3617-1257-40d5-9000-cb242208b424"
+    },
+    {
+      "start_time": 229,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The homeland will cover\nYour step now\nAnnounces the future"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "1e0c74cf-e165-43b7-8774-fc22ba212a8b"
+    },
+    {
+      "start_time": 235,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We salute the heroic Bolivian miners who fight against the opprobrium of centuries. We salute the broken Chilean who fights the bloody partners of Duarte and the colonels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "95a01e4c-d90d-4336-b0fb-c3fc8e1dbe28"
+    },
+    {
+      "start_time": 251,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Forging unity\nFrom north to south\nIt will be mobilized…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "a4ad4718-bad6-4812-aa4e-33ed308382f7"
+    },
+    {
+      "start_time": 255,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We salute the man from the Argentine pampas, the fishing worker from foreign seas in Latin America. We salute the Andean Indian, the landless Indian with armed hope in his hands on the side of Guatemalan Atitlán. We salute the Nicaraguan who is building the luminous homeland that filibusters and Yankee ambassadors denied him. We salute the Puerto Rican people who promote the anti-colonial struggle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4b87916f-10bc-4dae-b6b2-79e32265cd8d"
+    },
+    {
+      "start_time": 289,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We salute the heroic people of José Martí, the people of Bolívar, of Sucre. We salute the Christians committed to the dispossessed of the continent. We salute all the peoples who use solidarity as an open and extended hand towards El Salvador in struggle. We salute the heroic Salvadoran people, the indestructible and necessary unity of the revolutionary forces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "bd8f75ed-e5cf-4833-8769-afd6aca8cddf"
+    },
+    {
+      "start_time": 323,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We salute the men and women of that Salvadoran people who advanced in 1981 to the gates of victory and who in 1982, the year of other great victories, must overcome death, violence, and the destruction of centuries to achieve peace in freedom. We salute all the men of the Earth who, like the Salvadorans, fight for the right to stop being slaves to foreign intervention, to conquer the right to become free men in a sovereign homeland."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3c5b5d8a-450e-4957-b44e-bcb4c623bce6"
+    },
+    {
+      "start_time": 371,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salvadorans in 1982, Venceremos organization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2a2bc745-11f1-40f6-ba4e-966e14c8c8c0"
+    },
+    {
+      "start_time": 378,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A people that fights\nIt will be the one that will guide us to final victory.\nBrothers, united to fight.\nLet's move on to the revolution.\nLet's build a future of progress and dignity.\nRevolution or death, we will win.\nFarabundo Martí inspired us\nand today he reappears victorious on our front.\nThe red and white flag will protect us\nand a star will show us the path."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "c0eedbcd-0685-4669-b5b6-26f43dbc9df0"
+    },
+    {
+      "start_time": 419,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Farabundo Martí, you have been breaking libertarian paths along which peace and justice for our people will travel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "90db23cc-b572-4edf-9de7-0c9e0e1a0f97"
+    },
+    {
+      "start_time": 432,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brothers united to fight. Let's move on to the revolution. Let's build a future of progress and dignity. Revolution or death, we will win!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "5b4ffaec-90c4-4d80-97e2-c8c30b0dfd43"
+    },
+    {
+      "start_time": 454,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will win!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "c5d62962-4e0f-438d-909d-d45a69043e1f"
+    },
+    {
+      "start_time": 461,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos presents a summary of the main events in 1981, a year of advances and victories for our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "df88d3b4-4d21-4221-af0a-0aeef852d542"
+    },
+    {
+      "start_time": 475,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 1st, the Economic Stabilization Law comes into force in a vain attempt to solve the crisis that the country is experiencing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "f3817003-3e89-4ea4-8625-91d7376039b0"
+    },
+    {
+      "start_time": 485,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 4th. The Revolutionary Democratic Front appoints Guillermo Manuel Ungo as president and Eduardo Calles as vice president of that unitary entity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "219186d0-ffd9-4086-aabb-090c92a289d5"
+    },
+    {
+      "start_time": 499,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 4th. Members of the Death Squad assassinate Michael Hammer, advisor to the North American Development Institute, and Mark Pearlinan. Ricardo Sol is involved in this incident."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "63111367-45a8-4b60-9752-885eb11ff599"
+    },
+    {
+      "start_time": 515,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January sixth. Fighters from the Farabundo Martí National Liberation Front on the Guazapa hill shoot down a Corsair plane."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "cbf31e42-1722-4412-b582-31d875ca2664"
+    },
+    {
+      "start_time": 526,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 10. The Farabundo Martí National Liberation Front calls for a general offensive through Radio Venceremos, a station that is on the air for the first time today. Our forces activate against enemy locations in different parts of the country. Likewise, on January 10, the political-diplomatic commission of the Revolutionary Democratic Front, Farabundo Martí National Liberation Front, was established."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "936c8b9c-c209-4c2c-8693-9cdcb9565ceb"
+    },
+    {
+      "start_time": 560,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On January 10, the second brigade from the Santana barracks joined the ranks of the Farabundo Martí National Liberation Front after burning the barracks. The members are two officers, Marcelo Cruz Cruz and Francisco Emilio Mena Sandoval. Next to them, 70 more soldiers stand up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1d39a931-0d2e-43f6-b506-16653efd7fb6"
+    },
+    {
+      "start_time": 585,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 11. Commander Lilian Mercedes Letona, at that time responsible for the FMLN militias on the central front, along with comrades Mario Vigil and Ana Margarita Núñez, is captured."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1929c663-6728-489b-be78-6149b7add523"
+    },
+    {
+      "start_time": 601,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This same day the city of Chalatenango was taken and the El Paraíso barracks was besieged."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "ae8fa533-6348-4b5e-ad96-8e089b021a20"
+    },
+    {
+      "start_time": 610,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 12. Forces of the Francisco Sánchez Eastern Front take the city of San Francisco Gotera for several hours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "6fa2b03e-4b4c-450d-a5a8-caf2ffc0db5c"
+    },
+    {
+      "start_time": 621,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This same day, forces from the Anastasio Aquino Paracentral Front took San Cayetano and Zacatecoluca, San Ildefonso, San Esteban Catarina and San Sebastián simultaneously."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "895fa1d1-daa6-47d8-963c-4d7ffe442204"
+    },
+    {
+      "start_time": 639,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 15. Combined forces of the army and security forces raid the premises of the Independent Press Agency, AIP, and capture Vida Cuadra and three other journalists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b37ba434-d823-4ba1-98b9-ceb64601fffa"
+    },
+    {
+      "start_time": 655,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 17. Heroic date of Cutumay Camones. 94 combatants of the Farabundo Martí National Liberation Front die in combat, including three members of the area's leadership."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "ae5d726c-b7f7-487b-a758-c9aa51244121"
+    },
+    {
+      "start_time": 674,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 17. They capture our colleague Facundo Guardado in Tegucigalpa, Honduras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "bd759771-eb79-4164-a8da-e326057d84c2"
+    },
+    {
+      "start_time": 682,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 18. 700 members of the Armed Forces raid the premises of the José Simeón Cañas Central American University."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "23a5b61d-7338-4e58-a373-e5c43f45a94f"
+    },
+    {
+      "start_time": 695,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 19. FMLN forces simultaneously attack the barracks of the National Guard, National Police and Navy in Suchitoto, department of Cuscatlán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "edba5a1a-8db2-40aa-8964-ee863587f42d"
+    },
+    {
+      "start_time": 709,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "January 25. The secretary of the human rights commission of El Salvador, Víctor Medrano, is captured. He was later released due to popular pressure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "15380612-1de5-43d8-bce2-79fde39ba171"
+    },
+    {
+      "start_time": 723,
+      "end_time": 734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the last days of January, the convergence pact between the military youth and the Farabundo Martí National Liberation Front was signed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "fb98a7e7-2814-406f-9086-65c04b0cae74"
+    },
+    {
+      "start_time": 740,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "February 20. Colonel Adolfo Majano is captured in Guatemala City. He is extradited to El Salvador. Duarte assures, \"There will be a military trial.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "27ee5b14-6488-4186-a8ce-aea965afea7b"
+    },
+    {
+      "start_time": 754,
+      "end_time": 767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "February 23. The US State Department released the white paper in an attempt to justify US intervention in El Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "22f76353-8a7f-48f7-921f-3555145d25ee"
+    },
+    {
+      "start_time": 768,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "February 24. Blasting of the powder magazine of the Third Infantry Brigade in San Miguel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "5e965f9e-cbd4-43b5-8b72-b3583a4d6888"
+    },
+    {
+      "start_time": 776,
+      "end_time": 788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Day 27. The FMLV presents the prisoner of war Santos Enrique Díaz Alvarenga, 22 years old, stationed in the Third Infantry Brigade in San Miguel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4eb3b293-2cf5-42d7-a8f3-6ed67f44f879"
+    },
+    {
+      "start_time": 789,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "March first. Commanders Fermán Cienfuegos and Joaquín Villalobos of the Farabundo Martí National Liberation Front meet with Mr. Carlson, secretary general of the Socialist International to present an analysis of the Salvadoran situation. The meeting took place in Panama."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4bc0b6d4-c8c8-4bdb-b0a3-294253c2e2d7"
+    },
+    {
+      "start_time": 813,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Six officially closes in Costa Rica to Radio Noticias del Continente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e59ecef4-82a0-4a7f-9a4b-3c1c706238c6"
+    },
+    {
+      "start_time": 820,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "March ninth. Army forces of the Christian Democratic military junta begin offensive in the department of Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "03a4a9b9-8028-4c00-bb66-3377e09be4cf"
+    },
+    {
+      "start_time": 831,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "March 24. On the first anniversary of the death of Monsignor Óscar Arnulfo Romero, the general command of the Farabundo Martí National Liberation Front orders a ceasefire in honor of the martyred bishop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "0096b641-0daa-4536-b0e9-8f163884886c"
+    },
+    {
+      "start_time": 849,
+      "end_time": 858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "March 25. Massacre in the painted cave near Chalatenango, border area with Honduras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "f1da48a0-10cd-4aed-aa3c-235e3dc27180"
+    },
+    {
+      "start_time": 859,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On March 31, forces of the Francisco Sánchez Eastern Front break the military siege of the dictatorship and win a gigantic operation against the department of Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "09cb8e96-3a34-49d4-9754-ba952ff6075e"
+    },
+    {
+      "start_time": 872,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Music without lyrics)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "6ece3bc6-499f-4e33-9297-1f0a595a2881"
+    },
+    {
+      "start_time": 880,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Attention, Radio Venceremos in this broadcast will announce the statement from the general command of the Farabundo Martí National Liberation Front on the occasion of the end of the year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "bf65f71b-d02d-41c1-bf49-a22f37736af4"
+    },
+    {
+      "start_time": 896,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Music without lyrics)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "04025f77-afdd-477e-8621-bcfc2438a8a8"
+    },
+    {
+      "start_time": 903,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Below, our fellow priest Rogelio Ponseele in a message addressed to our Christian people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "c9210444-40dc-4743-9f93-4b3b450f3068"
+    },
+    {
+      "start_time": 912,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the Francisco Sánchez Northeastern Front we have just gone through a difficult and painful stage. While it is true that in military terms the enemy was defeated, that is, he could not achieve even a small part of his objective of annihilating the guerrilla forces on our front despite having set up a gigantic operation, it is also true that his criminal hand wherever it happened it left hundreds of dead, mostly children, women and the elderly, part of the defenseless civilian population that could not escape the irrational fury of the enemy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "8b604908-576c-4c3c-a469-4a7c039933cc"
+    },
+    {
+      "start_time": 961,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because there are our brothers, friends and part of this poor people whom we want to liberate, we are overcome with immense pain and it is born spontaneously, not with the desire to offend God, but rather in search of an answer to the prayer of Psalm 13."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "0de04a5b-fd83-482f-ad81-9ef8f3b48e2b"
+    },
+    {
+      "start_time": 984,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"How long, Lord, will you continue to forget us? How long will you hide your face from us? How long will we feel suspicion in our soul and sadness in our hearts? How long will those who hate us overcome us? Lord, our God, look and answer us.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "840e67be-51fd-4310-8412-9325eff3e3b8"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Christmas event brings us the answer. God invites us to fix our gaze on this fragile and defenseless child who comes from above and who is born in the midst of poverty and persecution. He is born in a manger because they couldn't find a place in the inn."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "c319dd68-2da6-47fd-a880-c8ebcab2b8b9"
+    },
+    {
+      "start_time": 1034,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His parents, Mary and Joseph, are extremely poor people. To escape the fury of King Herod, who does not hesitate to order all the children of Bethlehem under the age of two to be massacred with the aim of eliminating Jesus, he also has to, we would say, maneuver on the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "eaa33a46-5def-497f-8545-3566146820a6"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This context of poverty and persecution that characterizes his birth will accompany him throughout his life until Golgotha ​​where he has to assume the most shameful death of his time, death on the cross. It is in this critical moment, in this moment of apparent failure that we witness the powerful intervention of God the Father who rescues his son Jesus, who becomes the son of God free from all bondage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "d1f0412e-eaaf-40b7-be04-501fc0367fcd"
+    },
+    {
+      "start_time": 1096,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In short, Jesus points out and walks himself for guidance, shows the path of salvation and thus becomes our Savior. In Jesus the path of salvation is traced. Every man and therefore every people who wants to achieve their true freedom must necessarily go through this painful path of humiliation, suffering and death."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "c7896a8f-4be3-45e7-878e-5f6280169f8f"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the story of this child who is born in Bethlehem we read the history of our people. A fragile and defenseless people is born in the midst of a context of poverty and persecution. The new Herod seeks to humiliate and annihilate him. To escape the fury of the new Herod, who does not hesitate to order the massacre of children, women and the elderly, this people must constantly set out on the road, but they do not despair, they walk knowing that this path leads without the slightest doubt. to the long-awaited victory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "9a0b6576-01df-4161-a29c-2f88d30b65e2"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is here where we find God's answer. Our faith does not erase the pain or make it less bitter, but it does help us accept it as part of a journey, a process that, despite appearances, must lead to a new society free of terror, violence and death."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "a6d3b410-0e46-414d-a6d6-15d53681d13c"
+    },
+    {
+      "start_time": 1198,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is why we keep hope alive, a hope strengthened by the small and large triumphs that we have achieved in recent days. The enemy's gigantic operation was made to fail through an efficient strategy ordered by our command."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "0edca236-e426-4944-acaa-b96323d51caf"
+    },
+    {
+      "start_time": 1224,
+      "end_time": 1239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A few days after the start of the operation we were already resuming our previous positions. Radio Venceremos broadcasts again, denying the enemy's deceptive campaign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "ba6f9321-ca38-4d34-8c1a-a2dcb9d71f74"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To make matters worse, in an agile and well-planned counteroffensive, it was possible to remove and hit the troops of the bourgeois army that had been left, regaining control over the entire area. These victorious events that have occurred with certain variations also on all other fronts show that God does not abandon a people who are clearly assisted by reason and justice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "b5e4d632-8456-487e-a556-d8150248671f"
+    },
+    {
+      "start_time": 1276,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is our deep conviction that God, who is love, is proven in the Christmas gesture by becoming God equal to us, that this God of love will not rest until justice triumphs over oppression and violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "96c75ccd-03de-4a59-ad83-9752512ebd97"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Therefore, full of hope we find ourselves concluding one year and beginning another. We will continue in 1982 working and fighting for the mass organization of our people, the only way to achieve a just peace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "fca28186-5bdb-48b1-bdbe-7fc4519dcfcd"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For unity and solidarity, essential conditions for a soon happy outcome of the painful conflict. For the consolidation of popular power, forging a new society now and for the conquest of a Government of broad participation, shaking the hand of every honest man willing to make our country a just and fraternal country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "b8b07c74-a173-4559-9bd2-1202e8fe9832"
+    },
+    {
+      "start_time": 1353,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A happy New Year to all of us who are willing to walk the path of Jesus and not rest until we achieve total and definitive triumph for our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comentarista Invitado"
+        }
+      ],
+      "uuid": "6214ae9f-a9c0-4321-a01d-628a7cca04c9"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like a stream of iridescent light\nemerges pure and powerful\nEl Salvador.\nOn the edge of the strong satrapy--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "8d6dc93e-3bc9-436e-bf84-82daf4edd383"
+    },
+    {
+      "start_time": 1380,
+      "end_time": 1388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We listened to fellow priest Rogelio Ponseele in a message to our Christian people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "83c924e1-0d5e-45a5-9d06-4dc015e32c46"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Salvador. If the vesanic north is ruminating, defiling our Cuzcatleca nettle, the invader and the mercenary do not forget that there are 100 volcanoes in the mountain range. The Farabundo volcano in the forefront, the José Feliciano erupting, the Modesto Ramírez in the rear and a permanent volcano, Juan Chacón."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "d7db4c59-f782-4487-be6c-b6a448a271a0"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 86880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we make contact with one of our mobile units, which from the town of El Mozote brings new testimonies about the massacre carried out by the dictatorship in the department of Morazán where around 1,000 Salvadoran peasants were murdered in cold blood. Go ahead, friends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "01f2e443-7702-4c07-9be4-38bb4edc7ca6"
+    },
+    {
+      "start_time": 86940,
+      "end_time": 88620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this moment, the mobile unit of Radio Venceremos is with a lady who is a victim of repression in El Mozote, jurisdiction of Meanguera, in the department of Morazán. Lady who managed to survive the massacre perpetrated by the repressive forces in that place and in other villages in the department."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "331adafd-65f1-4fb8-99c1-4ea4dedbc1b5"
+    },
+    {
+      "start_time": 88680,
+      "end_time": 88860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Partner, could you tell us your name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "cb01391a-78d0-485e-8293-f63077aec7c8"
+    },
+    {
+      "start_time": 88920,
+      "end_time": 88980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rufina Amaya"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "675a1d13-8687-4496-8170-8f4fa1a48db7"
+    },
+    {
+      "start_time": 88980,
+      "end_time": 89100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How old are you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "3a502aef-f030-4b3e-a013-bd3b27579bb4"
+    },
+    {
+      "start_time": 89100,
+      "end_time": 89160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "38"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "71d27ef0-c8f4-4efc-929b-d6586df94412"
+    },
+    {
+      "start_time": 89280,
+      "end_time": 90000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comrade, we understand that you were a witness to the massacre and a victim of it in the town of El Mozote. Could you tell us how the events happened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "b9ab9c5b-1e51-4d56-9b81-b8b3a803ba7f"
+    },
+    {
+      "start_time": 90000,
+      "end_time": 91320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On Friday, December 12, they took people out of their houses at 5:00 AM and lined them up in the small square in front of the Hermitage. From there they had them, there the naked children enduring the cold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "4eedf29a-9fb9-4d87-81eb-88f5bec7bd8b"
+    },
+    {
+      "start_time": 91320,
+      "end_time": 92220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From there they took them to the houses to lock them up, the men locked them in the church, they locked us in Alfredo Márquez's house. From there they were kept hungry and thirsty until six in the afternoon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "49f41b0e-36f6-432f-88da-171c230a48ca"
+    },
+    {
+      "start_time": 92280,
+      "end_time": 92580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 12:00 PM they killed the men."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "5bddf5a0-679e-42f6-a576-e500c0a92430"
+    },
+    {
+      "start_time": 92700,
+      "end_time": 93600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 2:00 PM they took the girls to the hills, took them and kept them until 6:00 AM the next day. From there they killed them and burned them. They all raped them. After they were raped, they were killed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "95c2acc3-6de0-4e3a-a862-268d6e23fa03"
+    },
+    {
+      "start_time": 93720,
+      "end_time": 94200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The men bandaged them, from there they killed them. I was seeing them there where the men were killing through a small window where they had us locked up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "794420b4-5cbb-4ec8-a139-3cc1245ef19d"
+    },
+    {
+      "start_time": 94260,
+      "end_time": 95400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From there I watched how they did them, how they threw them away, then they killed them. The soldiers showed ingratitude to the men because they gave them their guns. Since they didn't have guns, they weren't part of any organization, they all died unjustly there, why? Because they didn't have anything to deliver."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "bad281fe-8c27-41c5-945d-7ab87b6d0928"
+    },
+    {
+      "start_time": 95460,
+      "end_time": 96780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They have done it with an ingratitude of killing all these children out of personal hatred, for all things, they believe that they are killing guerrillas and no, it is children and women who kill. These murderers must put their hands on their chests, which is what they are doing in El Mozote, in all the departments that are killing women and children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "afc1862e-154c-40ad-9b5c-f53d2bafe08e"
+    },
+    {
+      "start_time": 96840,
+      "end_time": 97920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The old women took them out first to kill them. They killed Margarita Márquez and Vicenta del Cid first. From there they killed the other ladies, one Gurelia, another Bartola, who were elderly, who could no longer even walk, they were at least 80 years old each."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "7b60082f-a840-4ddf-9f93-b48c6e300551"
+    },
+    {
+      "start_time": 97920,
+      "end_time": 98640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From there they killed the elderly, Israel Márquez, Leoncio Claro, that Leoncio did not drive nor could he walk. To Lorenza, who was Don Leoncio's wife."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "117db085-31a0-407d-a778-2a9abc04ce1b"
+    },
+    {
+      "start_time": 98640,
+      "end_time": 99120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rufina, could you explain to our people how you managed to save your life?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "738086f2-393a-4c29-a103-c650a18651cf"
+    },
+    {
+      "start_time": 99180,
+      "end_time": 100800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I can tell you how I was saved. When they took us out to line them up where they were going to kill us, I stayed, I hid from them next to an apple tree, a pineapple bush, there I stayed, bending a twig with my finger, there I covered myself and then The murderers didn't see me. So, they killed all the women there, and I saw clearly when they finished killing them and burning them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "96467715-004f-4e66-862d-0c4a889fb5b9"
+    },
+    {
+      "start_time": 100860,
+      "end_time": 103140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As best I could, after they killed all those people, they killed all the people, they went to the bazaar. I had a little chance of getting out because the boots didn't see me where I had stayed. There I was, where I had stayed, they came in front of me to talk. The lieutenant was also there with them, all the troops surrounded there, to talk that they were not from this place, from here, but that they were from other parts, that they had been sent to kill people, they had not been sent to tolerate people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "e39d6fb3-8116-466e-b693-33be22a2ea96"
+    },
+    {
+      "start_time": 103140,
+      "end_time": 103860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comrade, could you tell us what else you heard in the talks held by the criminals who at that time had just committed the El Mozote massacre?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "ef148a95-0d23-4b53-8962-3246472c381d"
+    },
+    {
+      "start_time": 103920,
+      "end_time": 105060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I heard people say that it was Lieutenant Ortega who killed people, ordered the children to be killed and everything. There were some who said that they did not want to kill children, that they killed women, because there were men and women, because they knew, that they knew why, that they had not left, but the children did not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "6ea0d1ad-8e31-484b-9fce-0bf7173c91c2"
+    },
+    {
+      "start_time": 105120,
+      "end_time": 105360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lieutenant Ortega said that a single bullet was going to hit the one who did not want to kill children."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "64e68153-4746-49ea-a34c-699ce19165a3"
+    },
+    {
+      "start_time": 105420,
+      "end_time": 106080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The clothes they wore were flagged, black, and they also said that they were from the Death Squad. They had fallen from the plane there on the plain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "8db22942-9cfa-43eb-a6f5-fb6c388cdc5e"
+    },
+    {
+      "start_time": 106140,
+      "end_time": 107040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In front of me they began to tell how they were going to kill the children, who they said were going to be beheaded and hanged. I saw when they were making the pitas they were making to hang the children after the others killed them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "7189346c-d4cc-4ccc-8d39-5f3802b8beae"
+    },
+    {
+      "start_time": 107160,
+      "end_time": 107880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe it is true that they have hanged and slit the throats of the children because I was listening, shots were not heard, the children only cried and screamed at the mothers who were killing them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "f93a1c24-f748-41be-8eb4-084869d15902"
+    },
+    {
+      "start_time": 107880,
+      "end_time": 108480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They burned all the children and all the women said that they would not leave until they finally saw that witches could come out of those they were burning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "84bc3f83-55d4-404f-9711-c5f0707feee3"
+    },
+    {
+      "start_time": 108480,
+      "end_time": 108960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the end, then, from there, from the hamlet of El Mozote, not a single person left, only me, because they killed everyone there along with their entire family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "b26155c8-08cc-4da9-8aae-ecf4618ef1d7"
+    },
+    {
+      "start_time": 109080,
+      "end_time": 110520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The four children and the husband, whose name was Domingo Claro, killed me. He was visually impaired, he did not see, he only saw with glasses. The children, one was called Cristino Claro, the other girl was called Lolita Claro and the other girl was called Lilian Claro, the baby girl who was killed, eight months old, was called Isabel Claro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "1f4be063-a090-40f4-81a8-670d4bc5c9ee"
+    },
+    {
+      "start_time": 110580,
+      "end_time": 112020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rufina, to finish this interview, we would like to know if you have any message for the people of the world, for the Salvadoran people as a mother, as a peasant woman who is a victim of the repression unleashed by the Christian Democratic Military Junta against the Salvadoran people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "5b7bcc77-fb1f-4507-b112-9593bc363abe"
+    },
+    {
+      "start_time": 112080,
+      "end_time": 113640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had a message, to ask that all these people, whether Republic or people that show repugnance, not kill children or women. Let them show solidarity with us who are victims of repression. Let's say that the people's struggle is not in vain because they do not kill children or women."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "e4878af8-0a15-4325-872f-f192384df622"
+    },
+    {
+      "start_time": 113640,
+      "end_time": 114480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I also ask the Salvadoran woman to join in to defend her family and her children so that what happened to us does not happen to them because they trusted us, that the military authorities were not going to kill them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "2bbefafd-e92d-41c6-a4a9-063f4fcaef82"
+    },
+    {
+      "start_time": 114600,
+      "end_time": 115800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would also like to ask the murderous soldiers to think about what they are going to do, that they do not kill the children, that they reincorporate, that the children have nothing to do with the guerrillas, that before carrying out those orders they see who they are murdering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "66af6da2-70b1-4d39-a72b-1a4e2444972f"
+    },
+    {
+      "start_time": 115860,
+      "end_time": 117420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These have been the statements of Rufina Amaya Márquez. Peasant woman, from the El Mozote hamlet, jurisdiction of Meanguera, victim and only survivor of the criminal repression unleashed by the Christian Democratic Military Junta on December 12 of this year in the department of Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Entrevista"
+        }
+      ],
+      "uuid": "820a4a92-495f-4df4-8ced-c47c497aca6e"
+    },
+    {
+      "start_time": 117480,
+      "end_time": 118860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to see them judged here\nin this square, in this place.\nI want punishment,\nI want punishment,\nI want punishment..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "56bf10ab-ae98-4a66-9f01-febbc090a3ab"
+    },
+    {
+      "start_time": 118920,
+      "end_time": 120360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We once again call on the president of the Christian Democrat Military Junta, engineer José Napoleón Duarte, to deny Radio Venceremos that the entire population of El Mozote, women, men, the elderly and children, were coldly massacred by the troops under the command of Major Cáceres."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4b87e680-0761-4054-8828-269d5f685678"
+    },
+    {
+      "start_time": 120420,
+      "end_time": 120960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Music without lyrics)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "5c45d7cc-5000-418a-8825-18e164754dbb"
+    },
+    {
+      "start_time": 121020,
+      "end_time": 122400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Salvadoran people have shown great heroism and high combative capacity. Despite the tens of thousands of dead Salvadorans, he continues and strengthens his libertarian struggle. We have experienced many examples of courage and bravery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e7e113a7-1ab2-40c1-baca-5c0532c3eb56"
+    },
+    {
+      "start_time": 122460,
+      "end_time": 124980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just last December 29, the date on which comrades Elmer, Serapio and Edwin fell in the victorious battles of La Guacamaya in the department of Morazán, thus giving clear signs of their revolutionary aggressiveness, strengthened by an indomitable decision to win and a deep trust. in victory. They have left us the example of revolutionaries, who despite their high combative capacity, never lost their simplicity and modesty. They are fundamental qualities of proletarian fighters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "69e25cee-1af1-4f4c-86db-239b1988cbac"
+    },
+    {
+      "start_time": 125040,
+      "end_time": 127560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Its consequence led them to fulfill their commitment to the Salvadoran people, reaching the maximum commitment of bequeathing their own lives. The Francisco Sánchez Eastern Front has lost three of its best fighters, but we are sure that others will fill the empty space left by their comrades and many more will follow the example of their decision to win or die. United to fight, until final victory. Revolution or death, we will win. Francisco Sánchez Eastern Front, southern zone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "565be474-3e71-4014-b77d-118159496a21"
+    },
+    {
+      "start_time": 127620,
+      "end_time": 128040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Music without lyrics)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "f9c80e6a-1435-41fe-8b16-53bad9dfc4e7"
+    },
+    {
+      "start_time": 128100,
+      "end_time": 128820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, Radio Venceremos, winner of the 1981 award from the International Organization of Journalists, presents Plomo Informativo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "518062b3-77a3-4c1a-82d7-da4c56680a67"
+    },
+    {
+      "start_time": 128820,
+      "end_time": 129180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(shootout)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Efectos de sonido"
+        }
+      ],
+      "uuid": "2fca116d-7b4c-419d-987e-7b5b6d8b0d38"
+    },
+    {
+      "start_time": 129240,
+      "end_time": 129420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is our information."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1585ad24-bd75-447c-9247-021034aea868"
+    },
+    {
+      "start_time": 129540,
+      "end_time": 131340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "American priest accuses Reagan administration. The United States plays a destructive role in Latin America and countries on the continent by applying a dangerous policy similar to the one that led them to the Vietnam War in the 1960s, declared North American priest Albert Edimen, who lived for 30 years in El Salvador and Guatemala. ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a3c37da1-f62d-4cb4-824d-6009d6769553"
+    },
+    {
+      "start_time": 131400,
+      "end_time": 133740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The forces that oppose the Salvadoran dictatorship, said the priest, grow day by day and increasingly achieve greater success in their struggle. Returning to the issue of United States interference, Priest Reitman stated that North American aid to the countries in the area is limited to the supply of weapons and the sending of military advisors. At the time when the forces of the Francisco Sánchez Eastern Front route the forces of the dictatorship, more information."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "bac0c3f8-4baa-403f-9591-5b3ef01c29f4"
+    },
+    {
+      "start_time": 133800,
+      "end_time": 134520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Solidarity continues with our people in Venezuela. More than 1,500 students from the Venezuelan university in the state of Zulia condemned the interference of Venezuela and the United States in our country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "36539e55-8c30-488d-94ef-f693de071c0d"
+    },
+    {
+      "start_time": 134580,
+      "end_time": 136020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In an advertisement published in the newspaper El Nacional of that country, the university students expressed their repudiation and concern for the sad and shameful role that it is playing in Venezuela by collaborating with the Salvadoran Christian Democratic military dictatorship in the unprecedented genocide that it has been carrying out since usurped power."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a59516c2-4b7f-4651-b97c-e30fef33db30"
+    },
+    {
+      "start_time": 136080,
+      "end_time": 138360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once again they extend the state of siege. The state of siege was extended for 30 more days, the Christian Democratic Military Junta announced last Tuesday. The state of siege was implemented in our country on March 6 of this year, the date from which the constitutional freedoms of the Salvadoran people were suspended, especially with regard to the inviolability of correspondence freely transiting through the national territory and the right to free expression."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2e50b753-5ef4-4be4-af77-923e97141b9d"
+    },
+    {
+      "start_time": 138420,
+      "end_time": 139200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a few moments, Radio Venceremos will present the end-of-year message from the general command of the Farabundo Martí National Liberation Front, the political-military vanguard of our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d9b6b10e-26c4-4c2e-9825-ac3117f627d4"
+    },
+    {
+      "start_time": 139260,
+      "end_time": 141780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, we received a war report from the Anastasio Aquino Paracentral Front that reads like this, \"December 29, this day a platoon of the FMLN army placed annihilation ambushes on enemy forces of the dictatorship at 6:35 AM at kilometer 78 of the Pan-American highway in the department of San Vicente. At 10:20 AM the enemy was present in a private vehicle carrying about 12 dressed army personnel. in civilian clothes, all carrying G-3 rifles.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "6ff3257c-f56a-440d-a648-bac2d6a87473"
+    },
+    {
+      "start_time": 141840,
+      "end_time": 144120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Our forces, which were already stationed, prepared for the attack. The enemy managed to detect them and they fled, scared and screaming, disorganizing the march in different directions. This first attack was effective, but when the enemy thought they had hit us, they encountered an ambush from us. which was about 150 meters from the previous one, which surprised the enemy by firing bursts with automatic riflery at a distance of 4 meters above the objective."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "877fe192-a949-46a4-8ddb-724e99a9f1dc"
+    },
+    {
+      "start_time": 144180,
+      "end_time": 145740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The attack lasted 10 minutes as the vehicle momentarily stopped the march and then escaped from our heroic combatants. Our companions reported the casualties of eight members of the dictatorship between dead and wounded. Later, at 10:35 AM, our forces withdrew in an orderly manner.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "0879ee16-40ff-4eb7-97b6-5789f4b06d5b"
+    },
+    {
+      "start_time": 145800,
+      "end_time": 146520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We remember that Radio Venceremos tonight at 10:00 PM will broadcast a mass in tribute to the heroes and martyrs fallen by the Salvadoran revolution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "9e635930-a171-4cff-9f10-ff7831d675de"
+    },
+    {
+      "start_time": 146580,
+      "end_time": 147360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now we receive a war report from the Francisco Sánchez Eastern Front that reflects the victories that our people have achieved in the last hours in the department of Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "9e8f998c-6ea7-45ca-a450-1e10f06fef0f"
+    },
+    {
+      "start_time": 147420,
+      "end_time": 149400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The general political and military command of the Eastern Front Francisco Sánchez informs the Salvadoran people that in the northern zone on December 29 in the morning hours an operation began along the entire northern front that consisted of the simultaneous attack on enemy positions located in Joateca, Cacaopera, Perquín, San Fernando, Torola, El Mozote and La Guacamaya\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "826a5c1f-f90b-4056-9ecc-f7cbcc739b28"
+    },
+    {
+      "start_time": 149460,
+      "end_time": 151740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This same day in the afternoon our forces took the positions of La Guacamaya and El Mozote. In La Guacamaya the enemy forces were disorganized, war material was captured and prisoners were taken. Likewise, by 12:00 PM our \"Our forces had managed to surround a fair number of enemies and the command post. On December 30, early in the morning, our forces managed to reduce the command post.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Prisioneros",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e151a460-60e5-4be9-acc4-10bf9ad5c729"
+    },
+    {
+      "start_time": 151800,
+      "end_time": 154140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In that position, Lieutenant José León Delgado Escobar, the corporal with the last name Cubías and another corporal whose name we do not yet have died. By the afternoon hours our forces began the advance against the enemy positions in Arambala. Entering the first hours of the \"That night we had taken all the positions of that town of Arambala. The enemy left in disarray and completely disorganized.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "00d2cf03-fa65-4355-991e-03840420fe50"
+    },
+    {
+      "start_time": 154200,
+      "end_time": 157620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The material recovered is the following, 17 G3 rifles, a 90-millimeter cannon, five projectiles from the 90-millimeter cannon, an M79, seven M79 grenades, G3 rifle grenades, steel helmets, backpacks, capes, blankets, food, etc. , 7.62 caliber ammunition, two machine gun cartridges, two military communication radios, a nine millimeter pistol. \"This resulted in two damaged helicopters.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Armamento"
+        }
+      ],
+      "uuid": "4d14eb5f-5bb3-4bd4-b29f-4239a74740fb"
+    },
+    {
+      "start_time": 157740,
+      "end_time": 159540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Enemy casualties. The dead in La Guacamaya and El Mozote are 18, not including the casualties in Arambala. Wounded by the dictatorship in a still incomplete list, 21 soldiers, captured are five. There were seven, but two captured who were seriously injured died \"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4cbcd116-42d1-4a8a-8559-09efc1c82261"
+    },
+    {
+      "start_time": 159600,
+      "end_time": 161400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In the attacks on Cacaopera, San Fernando, Perquín, Torola and Joateca, there were seven casualties, not including those in Cacaopera because the result was not known. In ambushes on the Gotera reinforcements, 13 casualties were caused to the dictatorship. Total casualties 64, among them a lieutenant and two corporals.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "103c0233-d001-42c5-88ff-c890fc840c15"
+    },
+    {
+      "start_time": 161460,
+      "end_time": 163380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Those captured are the following: Deputy Nurse Sergeant Manuel Antonio Rosales, 25 years old. Soldier Herber Francisco Lemus Castillo, 18 years old. Soldier Gilberto Morales Barrera, 18 years old. Soldier Nelson Ernesto Orellana, 25 years old. Soldier Alberto Martínez Villalta, 15 years old.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Prisioneros",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4a0a79fe-d18c-43ae-8846-e25cc784abb7"
+    },
+    {
+      "start_time": 163440,
+      "end_time": 164700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Casualties on our part. Our comrade squad leaders Elmer and Serapio and the second squad leader and machine gunner Edwin died. Comrade Gilberto from the commando and sniper section was wounded.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4d08716c-87a7-4f26-b76c-80192098e5e8"
+    },
+    {
+      "start_time": 164760,
+      "end_time": 167040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"At the same time that we give this statement to the Salvadoran people, we call on the International Red Cross, the families of the soldiers and the classes, as well as the fallen officer to collect the bodies of their relatives, they are buried in the Joateca volcano. They can also be delivered to the same Armed Forces through the International Red Cross.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "43832f07-9c7e-4bdf-9e0c-b763b8b3a0d7"
+    },
+    {
+      "start_time": 167100,
+      "end_time": 168180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"As for those captured, we also call on the International Red Cross to take care of them and verify that they are in good condition and that they have received good treatment.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Prisioneros",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "569129eb-0a8e-42e9-b4f2-72b843ff9cf7"
+    },
+    {
+      "start_time": 168240,
+      "end_time": 169860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This same day our forces from the Eastern Front in the south once again raided the cities of San Miguel and Usulután starting at 8:30 PM, with heavy fighting taking place within these cities without having all the precise data so far.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "f0c5c100-b30f-4f10-a364-95e623486104"
+    }
+  ],
   "event_id": "3d524a96-47eb-4cb9-9cce-a2d5714d222b",
   "set": "English Annotations",
   "source_id": "bfd2a715-dbc3-409e-b05b-921239205a3b"
