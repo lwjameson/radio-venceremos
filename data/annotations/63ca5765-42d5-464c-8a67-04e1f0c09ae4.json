@@ -1,5 +1,1169 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 62,
+      "end_time": 69,
+      "annotation": [
+        {
+          "text": "…jamás será vencido!",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ¡El pueblo unido, jamás será vencido!",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ¡El pueblo unido…",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "5365f9ab-a763-46b5-81e2-8b66d3c2e3db"
+    },
+    {
+      "start_time": 70,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Plomo Informativo, las noticias de nuestro pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1efc8537-433d-4e82-a594-67bb8d7e7215"
+    },
+    {
+      "start_time": 77,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explotación y muerte contra trabajadores de la Central Minera San Sebastián. A la voz oficial del Frente Farabundo Martí para la Liberación Nacional, la emisora del pueblo salvadoreño ha llegado una denuncia proveniente de la ciudad de Santa Rosa de Lima, en el departamento de la Unión, la cual expresa que fueron capturados dos trabajadores mineros por denuncias hechas a la guardia nacional por los serviles de la Central Minera San Sebastián, Cristóbal Bonilla, gerente administrativo, Francisco Torres Mengibar, superintendente de mina, junto a Manuel Reyes y Rolando Saravia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        },
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "65f51982-52d2-4bc0-b13d-eed8cf8dbca1"
+    },
+    {
+      "start_time": 122,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uno de los dos trabajadores capturados logró escapar del puesto de la guardia, mientras el otro obrero, después de ser cruelmente torturado, fue asesinado. En días pasados también fueron asesinados por orden de los serviles mencionados, otros trabajadores cuyos nombres son Donato Salvador, Leonardo Blanco y Carmen Fuentes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Tortura",
+          "category": "Tema"
+        },
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "c835b93b-27f1-405e-94d6-710eb2d310a6"
+    },
+    {
+      "start_time": 147,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También expresa la denuncia que los explotadores de la mina San Sebastián han retrasado los salarios de los trabajadores correspondientes a varias quincenas. En días pasados despidieron a 20 trabajadores sin darles la indemnización que corresponde a SVC 28.165, a pesar de las millonarias ganancias por la venta del oro extraído de esta rica explotación minera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Explotación",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e64cfcae-7236-4465-b692-b8198fe93cf2"
+    },
+    {
+      "start_time": 179,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañero obrero, estudiante, maestro, empleado, militar, patriota, señora de los mercados, pobladores de barrios y tugurios, campesinos, empleados. Radio Venceremos abre sus micrófonos a las denuncias de los problemas laborales. Denuncias de tu comunidad, de las acciones represivas de la dictadura y todo tipo de información que considerés importante para nuestro pueblo en lucha. Toda información hacer llegar a Radio Venceremos a través de la Comisión de Prensa del Frente Farabundo Martí para la Liberación Nacional o cualquier otro canal de las organizaciones revolucionarias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "71f3b029-4aeb-46d2-802c-fd43af231b11"
+    },
+    {
+      "start_time": 233,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Más información a la hora de incorporarnos a las heroicas milicias populares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "ef113e26-2714-4a3b-bac2-c8aa71385e15"
+    },
+    {
+      "start_time": 240,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El evidente desgaste que las fuerzas del pueblo están produciendo día a día en las filas del ejército genocida ya no puede ser ocultado por los mandos genocidas. La junta de Gobierno, a través de un vocero de la fuerza armada, ha reconocido ante la prensa haber sufrido 20 bajas en las últimas 24 horas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "5bfaf334-7f74-4a3b-8733-4ec08bab966f"
+    },
+    {
+      "start_time": 270,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Igualmente, la dictadura declaró que en los últimos días cerca de 2.000 combatientes del FMLN construyeron fortificaciones en el Cerro Eramón, departamento de Chalatenango, a pocos kilómetros de la presa hidroeléctrica del Cerrón Grande y la presa Cinco de Noviembre, las más importantes del país. La dictadura ha anunciado, por otra parte, la preparación de una ofensiva contra los combatientes acampados en el Cerro Eramón."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Chalatenango",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "318b2581-f9ee-43e5-8477-ba618599c434"
+    },
+    {
+      "start_time": 312,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mientras tanto, varios centenares de pobladores se han visto obligados a abandonar esa región y refugiarse en la población de lo Ilobasco, ante las amenazas desatadas por la tropa genocida de dar muerte a todo el que permanezca en esa zona. Radio Venceremos en próxima emisión dará un importante parte de guerra informando sobre el avance victorioso de nuestro pueblo en los cuatro frentes de guerra. Hasta aquí Radio Venceremos presentó Plomo Informativo, rompiendo el cerco informativo de la junta fascista."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Chalatenango",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "ea2a6ff4-ec57-436e-8429-e3685c38ee95"
+    },
+    {
+      "start_time": 361,
+      "end_time": 398,
+      "annotation": [
+        {
+          "text": "Daremos nuestra vida por la patria,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Por verla liberada lucharemos.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " La paz en esta tierra sembraremos,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Trabajando día día vivirémos.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Tiranos y asesinos ya no habrá.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Los niños por las calles jugarán.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Los vientos de justicia volverán,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Y a todo nuestro pueblo soplará…",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "8bb3c4a2-589c-4b78-a3d1-f736bf01b47b"
+    },
+    {
+      "start_time": 399,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con bastante asombro hemos leído en los periódicos locales de los últimos días el tono de las declaraciones formuladas por el arzobispo interino de San Salvador, monseñor Arturo Rivera y Damas, en torno a la violencia imperante en nuestro país."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "bd76d3ea-8b43-4fb7-969d-632755942c18"
+    },
+    {
+      "start_time": 420,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entendemos que una de las preocupaciones más profundas de la iglesia en estos conflictivos momentos históricos sea precisamente el doloroso derramamiento de sangre que actualmente sufre nuestro pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "8dd8f311-4070-43b5-bcc9-af509bd72733"
+    },
+    {
+      "start_time": 440,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recordamos de la misma forma que cuando monseñor Rivera y Damas asumió interinamente el arzobispado de San Salvador, declaró que seguiría el camino trazado por nuestro inolvidable monseñor Óscar Arnulfo Romero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "6138911b-a1e3-475e-b098-6edf06ffd11d"
+    },
+    {
+      "start_time": 460,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando hablamos de un camino trazado queremos referirnos a algo muy claro, la línea de monseñor Romero no admite ambigüedades. Fue claro y preciso, siguió una actitud coherente en relación al papel que la iglesia debe jugar en situaciones como la que actualmente atraviesa nuestro pueblo. Llamó con su nombre exacto a la injusticia, la represión, el genocidio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "cce7858a-a4b3-4828-8f9d-e6fe9434ced6"
+    },
+    {
+      "start_time": 500,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un día antes de ser asesinado, monseñor Romero, en su última homilía dominical, expresó, \"Queremos que el Gobierno tome en serio que de nada sirven las reformas si van teñidas con sangre. En nombre de Dios, y en nombre de este sufrido pueblo, cuyos lamentos suben al cielo cada día más tumultuosos. Les suplico, les ruego, les ordeno cese a la represión\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "33d40c93-e26c-4827-ac30-478ebd9b44b5"
+    },
+    {
+      "start_time": 541,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No hay confusión posible, monseñor Romero identificó directamente a quienes promueven la violencia y por esto estos promotores de violencia lo asesinaron."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Asesinatos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "92dd9583-7fd6-4856-acda-573604f30134"
+    },
+    {
+      "start_time": 560,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es por eso que nos extraña sobremanera la actitud del arzobispo Rivera y Damas al declarar que la represión ejercida por los grupos extremistas de derecha y por elementos del ejército y los cuerpos de seguridad ha disminuido. Hace pocos momentos escuchábamos de labios de los sobrevivientes de la matanza del Junquillo, todo el horror, todo el horror del genocidio instrumentalizado por la junta genocida. Ante esa sangre fresca de los niños del Junquillo nos preguntamos, \"¿Cómo es posible hacer tal afirmación?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Masacre de Junquillo",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "c0bf584a-b635-4e29-a6a0-64e7774af13f"
+    },
+    {
+      "start_time": 610,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hace solamente unos días las agencias noticiosas afirmaban que el viernes 22 del presente mes, fueron 26 los cadáveres encontrados con eminentes señales de tortura solo en la periferia de San Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Tortura",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d9160f37-2ff1-48ab-9181-5d3bb2a7e0fa"
+    },
+    {
+      "start_time": 633,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jamás sabremos el número total de los torturados, de los desaparecidos por la junta genocida. En cuanto al terror que la dictadura implanta en las zonas campesinas, esto es conocido en el mundo entero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Tortura",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "17dfd221-4b6f-40c2-bbbb-bfca57dab67c"
+    },
+    {
+      "start_time": 656,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. Definitivamente, el régimen no ha hecho ningún tipo de concesiones en su política de exterminio. Al contrario, podemos decir con plena seguridad y con el respaldo de todo un pueblo, que la represión gubernamental se ha mil veces multiplicado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2f3f6407-29d5-49c6-8031-2c3b428cebd7"
+    },
+    {
+      "start_time": 684,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otra parte, Monseñor Rivera y Damas, también afirmó que en su opinión, nuestras fuerzas tratan de impedir que la población recobre la confianza y vaya buscando caminos de normalización."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "05c0f5b9-5077-437e-a69a-a7c5ddcfaa8f"
+    },
+    {
+      "start_time": 705,
+      "end_time": 731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Queremos creer que estas afirmaciones son formuladas más por ingenuidad que por malicia. Pues, realmente sucede todo lo contrario y esto lo sabe nuestro pueblo y también los amplios sectores democráticos y progresistas del mundo entero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a1e7b9d1-e95a-4837-ab69-5774f7884c3d"
+    },
+    {
+      "start_time": 733,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es totalmente absurdo una tergiversación en tal sentido. Ha sido nuestra vanguardia, el FMLN, la que atenta al concierto de voces que claman por una salida política al conflicto. En virtud de evitar mayor dolor y mayor derramamiento de sangre para nuestro pueblo, ya tan martirizado, ha aceptado y promovido propuestas concretas para alcanzar una salida política a la crisis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a64e7326-f207-4ca9-89eb-aba3f78d97f0"
+    },
+    {
+      "start_time": 779,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sin embargo, es más que evidente que quienes obstaculizan que nuestro pueblo vaya buscando caminos de normalización, son precisamente los que únicamente, a la vez que demagógicamente hablando de elecciones capturan, asesinan o secuestran a miembros de reconocidos partidos de oposición legales. Como son los casos de Eleuterio Cárcamo y Margarita Gastiasoro. Ambos dirigentes del Partido Socialdemócrata, Movimiento Nacional Revolucionario, MNR."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Movimiento Nacional Revolucionario",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "72171ca1-18ce-4391-bea3-1b23c3a5a573"
+    },
+    {
+      "start_time": 830,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el caso del doctor Guillermo Manuel Ungo, presidente de este mismo partido, que increíblemente ha sido acusado por el régimen de terrorista, al mencionarlo junto a otras personalidades reconocidas políticamente en una famosa lista publicada por las fuerzas armadas y todos los medios de comunicación."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Terrorismo",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "94c6bf32-c4cb-431d-91ce-2e535b925e04"
+    },
+    {
+      "start_time": 863,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es un hecho que las declaraciones formuladas por Monseñor Rivera y Damas se apartan de una postura neutral, que resultan tan parcializantes y tan peligrosas, que lo único en que pueden redundar es en un respaldo, y hasta cierto punto para dar cobertura a las acciones criminales en contra de nuestro pueblo, que diariamente realizan precisamente los grupos paramilitares y elementos de los cuerpos de seguridad y del ejército."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "9bd35aa8-ff30-46af-866c-0ee264b3ec9a"
+    },
+    {
+      "start_time": 910,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estamos seguros que este tipo de actitudes en nada contribuyen para lograr un clima propicio para una salida política a la actual crisis, a la vez que alejan a la iglesia de la posibilidad de jugar un verdadero papel en el proceso de mediación."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "28acfbbd-ac06-4cf2-81e6-d4afb79b59a6"
+    },
+    {
+      "start_time": 938,
+      "end_time": 972,
+      "annotation": [
+        {
+          "text": "…socialista sera el porvenir,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " todos juntos haremos la historia,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " a cumplir, a cumplir, a cumplir.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil cadenas habra que romper",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " venceremos, venceremos,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la miseria sabrémos vencer!",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos…",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "0763a728-4f23-46fc-a02f-9fe8ad760e2e"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidos para combatir hasta la victoria final, revolución o muerte, ¡venceremos!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2bf18579-da55-4696-ac97-74a8d65873ee"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1017,
+      "annotation": [
+        {
+          "text": "Campesinos, soldados y obreros,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la mujer de la patria también,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " estudiantes, empleados, mineros",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " cumpliremos con nuestro deber.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "053f415b-cf22-4523-b645-cf8f8d04d197"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con un revolucionario saludo a la clase trabajadora salvadoreña, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional, llega al final de sus emisiones de esta hora. Recordando que Radio Venceremos, transmite todos los días de 6:00 a 7:00 en la mañana y de 6:00 a 7:00 en la tarde. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3572af5a-7071-4560-b1d3-c2f786029921"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1059,
+      "annotation": [
+        {
+          "text": "…todos juntos haremos la historia,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " a cumplir, a cumplir, a cumplir.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil cadenas habra que romper",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " venceremos, venceremos,",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la miseria sabrémos vencer!",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil cadenas habra que romper…",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "b1a3d09d-8f6a-48ea-9b8a-a156728d2910"
+    }
+  ],
   "set": "Default",
   "event_id": "3ed6b458-d999-488d-b5af-2c3a7494c9cf",
   "source_id": "0c23b848-e9d0-4e3b-95e3-bc83da42d9ce"
