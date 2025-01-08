@@ -1,5 +1,2473 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio venceremos is heard  from the center of the mountain,  transmiting its message  with the power of a people in arms.  At 6:00 AM  its transmission is heard,  it's Radio Venceremos  and it's the voice of our revolution.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio.  All the combatants are very motivated  because Radio Venceremos  has them well-informed.  All the combatants are very motivated  because Radio Venceremos  has them well-informed.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio.  It’s a powerful radio station,  everyone here listens to it,  it’s Farabundo Marti’s guerrilla radio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "a063ed34-ac05-40c5-aa48-ef065fc74450"
+    },
+    {
+      "start_time": 157,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people, united, will never be defeated! The people, united, will never be defeated! The people, united, will never be defeated!  On your feet, sing Because we’re going to triumph. Advance now Flags of unity. And you shall come Marching next to me And you shall see Your song and your flag bloom,  The light Of a red dawn ,  Announce now  The life that shall come  On your feet, march The people will triumph. The life that will come Will be better To conquer Our happiness And in one shout A thousand voices in combat will raise Shall sing A song of liberty With determination The fatherland will prevail.   The people, united, will never be defeated The people, united, will never be defeated The people, united, will never be defeated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "30076ac0-5192-4d2f-9170-e3ef89190105"
+    },
+    {
+      "start_time": 229,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Radio Venceremos, the official voice of the Farabundo Marti for National Liberation Front (FMLN), transmiting its signal of liberty from El Salvador, Central America, a territory in combat against oppression and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "dae0f214-d2de-42eb-9b0b-c76665da5752"
+    },
+    {
+      "start_time": 249,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fatherland is forging the unity. From north to south people will mobilise, from the salt flat hot and mineral to the southern forest,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "65a06cbf-b827-48c9-87e4-18bc07259d5a"
+    },
+    {
+      "start_time": 260,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos transmits its signal of freedom from the Francisco Sanchez Eastern Front, which is made up of the departments of Usulutan, San Miguel, La Union, and Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "06f669c0-0142-4535-a309-0176fd7f58ef"
+    },
+    {
+      "start_time": 276,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people will prevail The people will prevail Millions now, Impose the truth,  They’re made of steel,  Heated battle Their hand carry Justice and reason Woman,  With fire and bravery You are here now With the peasant. And now the people--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "33459af6-95f4-4e7c-af94-1bd8e960e433"
+    },
+    {
+      "start_time": 305,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Radio Venceremos on the air, breaking the dictatorship's information siege. Racio Venceremos, an expression of popular power over territories controled by a people in arms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "26c30551-7d4b-4e6c-8e91-04fce6f0fdf5"
+    },
+    {
+      "start_time": 323,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people, united, shall never be defeated The people, united, shall never be defeated The people, united, shall never be defeated The people, united, shall never be defeated The people, united, shall never be defeated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "1866fad1-5b1d-413f-a894-a5e7a5bb6c42"
+    },
+    {
+      "start_time": 339,
+      "end_time": 394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this manner, Radio Venceremos begins its broadcasts at this hour, sending a greeting on this the seventeenth anniversary of the creation of the Palestine Liberation Organization (PLO), [celebrated] tomorrow May 28th and which it will be seventeen years since the Organization's foundation for the liberation of Palestine, a sister movement in the Middle East that fights for its national liberation. Radio Venceremos greets the Palestian people in arms, greets this organization in its pursuit of peace, democracy, and the self-determination of a people in permanent combat against opression."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "09a182fe-0855-4f78-8fb0-e8a7d17f19fc"
+    },
+    {
+      "start_time": 395,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will overcome, we will overcome. A thousand chains will have to be broken. We will overcome, we will overcome. Misery we will know how to overcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "a59735e9-4763-4507-95df-03569369acf2"
+    },
+    {
+      "start_time": 412,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now, Captain Francisco Emilio Mena Sandoval, a member of the Military Youth of the National Army, opines about the election's fraude."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "cb375b26-ecdf-4773-9e74-150766b9348e"
+    },
+    {
+      "start_time": 424,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What kind of democracy is this? Our country definitely cannot have elections because there isn't an trustworthy Government that can guarantee them. The people are tired of this deception and today, besides declaring, \"Enough of these election frauds!\", it also fights with fire arms in its hands for true liberty, a democratic and revolutionary government, which will be guaranteed by an army of nine teams which will be comprised by the forces of the Farabundo Martí for the National Liberation Front and the Military Youth, and which will constitute an iron-clad guarantee for the governement and the Salvadoran people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Francisco Emilio Mena Sandoval",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "4dc70416-b210-44fe-9e5e-a0e912971bef"
+    },
+    {
+      "start_time": 470,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The proclamation by the Military Youth and by the Farabundo Martí for the National Liberation Front marks the point of departure toward peace in our fatherland and it marks a historical revolutionary committment for and by the people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Francisco Emilio Mena Sandoval",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "5e448620-982f-45e7-b95f-185b481efacd"
+    },
+    {
+      "start_time": 489,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Military patriot: The people are first. Join us. Fight. Liberty and fatherland. Military Youth of the Salvadoran Army."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Francisco Emilio Mena Sandoval",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "b03336ee-0faa-4ee1-93a9-18c42e3db74d"
+    },
+    {
+      "start_time": 503,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ashes are found  in the entire departament,  ashes  from the peasant family houses  and their belongings.  Ashes are found  in the entire departament,  ashes  from the peasant family houses  and their belongings.   They [the army] have burned magueyes,  and also sugarcane  and green coffee plants, too. And tree  have been left  consumed by the imperialist fire,  reduced to small quantities of ash that the wind is taking to the United States  to cover with evil  the murderer president's eyes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "fa8709e0-e444-4c48-a137-8b4b899da33f"
+    },
+    {
+      "start_time": 544,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Radio Venceremos, the official voice of the Farabundo Martí for the National Liberation Front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "419892f5-3e7a-43f4-9161-52b4591aaafb"
+    },
+    {
+      "start_time": 554,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transmiting its signal of liberty from El Salvador, Central America, a territory in combat agains oppresión and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "981e95e6-132b-4d98-be90-f91011c6d766"
+    },
+    {
+      "start_time": 565,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Instrumental music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "cd851f65-f1e6-43bf-b373-be10a62fa1ff"
+    },
+    {
+      "start_time": 574,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is The Creative Powers of the People."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "c5c2d38c-332f-43e6-b9bd-f20a0c7ca7d2"
+    },
+    {
+      "start_time": 579,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Instrumental music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "76fdba6b-ee83-4ccc-8d58-bfa13c2239ae"
+    },
+    {
+      "start_time": 597,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In The Creative Powers of the People, today we have the text by revolutionary poet, Roque Dalton. His creative power is present in our fight, and from his body of work we've chosen \"The policemen and the Guards.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Poem",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3a60cfd9-980f-4913-8557-cbb5493e60c7"
+    },
+    {
+      "start_time": 625,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They always saw the people as a mass of backs running away as a field on which their clubs fell with hatred.  They always saw the people with an eye on sharpening their aim and between the people and their eye, the sight of a pistol or a rifle.  (They too were once of the people but with the excuse of hunger and unemployment they accepted a weapon, a club and a monthly salary to defend the makers of hunger and unemployment.)  They always saw the people enduring sweating shouting raising placards raising fists and what’s more telling them: “Dog sons of whores, your day will come.” (And with every passing day they figured they’d done a great thing in betraying the people from which they were born: “The people are a mass of cripples and fools —they thought— it’s great we’ve gone over to the side of the clever and strong”).  And then the trigger was squeezed and bullets went from the side of the cops and guards to the side of the people they always went that way, from there to here and the people fell bleeding week after week and year after year broken-boned they wept through the eyes of the women and children fleeing in terror ceasing to be a people to become a fleeing mob disappearing every man for himself to his house and then there was nothing left but the fireman hosing the blood off the streets.  (The colonels finished up by convincing them: “That’s the way it is guys—they said— hard and to the heads of the civilians fire on the rabble you are uniformed pillars of the Nation priests of the first rank in the cult of the flag, the shield, the hymn, the Fathers, representative democracy, the official party, the free world whose sacrifices the decent people of this land won’t forget though we can’t give you a raise today though of course we’d like to”).  They always saw the people convulsive in the torture chamber hanged beaten broken swollen asphyxiated raped ears and eyes pricked with needles electrified drowned in piss and shit spit-upon degraded their last remains giving off little froths of smoke in a hell of quicklime.  (When the tenth National Guard was found dead, killed by the people and the fifth cop was roughed up by the urban guerrilla the cops and the National Guard began to think, especially because the colonels had already changed their tune and laid the guilt for today’s failure on “these rotten troop recruits we have”).  The fact is the cops and the guards always saw the people from there to here and the bullets only traveled from there to here. Let them think about that a while let them decide whether it’s too late to seek the people’s side and shoot from there shoulder to shoulder with us.  Let them think about that a bit but meanwhile they shouldn’t be surprised let alone offended now that some bullets have begun to reach them from this side where it’s still the same people as always except now with their heads held high and each time with more rifles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Poem",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8881d125-9c15-420c-9724-5cfaeeff8d46"
+    },
+    {
+      "start_time": 916,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Instrumental music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "3a46528b-77f7-4c94-87bf-3169c17ad5a8"
+    },
+    {
+      "start_time": 925,
+      "end_time": 929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In The Creative Powers of the People, Roque Dalton."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d31d77b1-816c-4799-8b31-256b960a48ae"
+    },
+    {
+      "start_time": 930,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Instrumental music)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "694fd607-55c7-46bb-9444-dee6ea4c5c68"
+    },
+    {
+      "start_time": 951,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, the official voice of the Farabundo Martí for the National Liberation Front broadcasts its radio signal of freedom from El Salvador, where an entire people fights against oppression."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "0f20a330-1359-4e5c-91de-162a4b0c56d9"
+    },
+    {
+      "start_time": 968,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will give our lives for the fatherland because we will endure liberty. The fatherland in this land we will overcome. Working, day by day, we will live. No more tyrants and assassins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "de74bd30-cb48-4531-a54c-ccc36452a30e"
+    },
+    {
+      "start_time": 994,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In these moments, Radio is receiving War Report number 121 from the information section of the Farabundo Marí for the National Liberation Front’s General Command addressed to their heroic combatantants and the Salvadoran people, and to all peoples of the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "34dbabb0-7a21-4de3-87de-516515bead93"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Modesto Ramirez Central Front Report,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Report",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "4a400b54-5aa2-473e-8c60-f73537e389cb"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On May 16th, at nine at night, the FMLN forces attacked teams of soldiers dressed as civilians in Hacienda Las Pilas in the village of Potrero Grande."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e11ac412-ef90-42e6-8000-b9e5288f38c6"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We caused the enemy casualties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a9baccc5-1d73-4818-804e-541b7981c6ee"
+    },
+    {
+      "start_time": 1045,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For our part, we retreated after we completed this operation without suffering any casualties. On the 17th of May at nine at night, the patriotic forces of the FMLN carried out an attack on the Death Squadron in San Martin Street in Suchitoto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "921323ae-6975-4952-9a8f-f05aceaf96ff"
+    },
+    {
+      "start_time": 1074,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We caused two enemy casualties with this action."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "c99cca6b-f824-42a3-aa44-43e005801472"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our forces continue with the hostile actions which with we continue to inflict on the forces of the genocidal army, which thinks it can vacate us from the regios of Suchitoto, Guazapa,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "4e56b6d8-f1fb-4617-a467-7f9e3a1f1103"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and with activities of sabotage on the plumbing of Suchitoto's water network. This happened in the are of Nixtamalapa. This action destroyed the plumbing, thus leaving the Suchitoto quarter's without water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sabotage"
+        }
+      ],
+      "uuid": "605b2642-5c31-4fb9-85f2-55c25bc27f06"
+    },
+    {
+      "start_time": 1115,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a complement to this action, our guerrilla squads left a booby trap with a bomb that exploded when the enemy intended to inspect the zone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "40cae9db-0956-41d6-bb22-b0b4f01c0b38"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This action caused five enemy casualties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "01e3d51a-669f-4181-b88b-137b279d6d2a"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On May 18th at 9:00 AM, the Farabundo Martí for the National Liberation Front initiated combat with patroling enemy forces in the cantons of La Ceiba, Valle Nuevo, Valle Viejo, and Buenavista."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "43ea310d-0ba1-4ca5-8586-3b7fe82f4e6b"
+    },
+    {
+      "start_time": 1098,
+      "end_time": 1168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With this action, we caused four enemy casualties. FMLN casualties: one combatant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "69fef01d-8d80-43e4-ba8a-43346749d605"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That same day, at 5:00 PM, revolutionary forces conducted a stalking ambush against an army's armored truck that transported ammunition and supplies to the enemy forces stationed in Canton El Roblar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5b1122ce-2fb2-45e2-8f2b-739072f615ba"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We carried out this action on the new street in San Rafael and caused the puppet army two casualties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f15463ab-66cc-4514-8312-d03e68ec5dc9"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On May 19th at 11 hours, FMLN guerrilla comandos fought against patrols belonging to the Death Squadrón in Canton Santa Anita, jurisdiction of Tenancingo, department of cuscatlan, 40 kilometers from San Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7d1b7a0d-b366-4773-a412-432bc99a9959"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One enemy casualty was reported in this combat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3935e35a-06c4-4391-9ffe-65aad8fce11b"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At sixteen hours, the genocidal army proceeded with its policy of death, destruction and scorched earth that dictated the eight group of Special Forces Coommand of the Yankee Army, and it attacked the Bermuda Hacienda in the zone of Suchitoto, Guazapa. This attack was carried out by a truck, a small tank, and army soldiers that shot eight 81-millimeter morters agains Canton Tenango. No casualties were reported in in the people’s lines. Simultaneously, however, another force tried to penetrate Canton San Francisco, which is controlled by the patriotic forces of the FMLN,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "02f5e767-0b65-4e1f-8c2f-72f8e2f24522"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the result of the combat were two enemy casualties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "665426a4-d23b-4d28-b42f-1238aee61e5c"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Chalatenango, on May 24th, the Popular Army of the FMLN continues its labors of hostility close to the towns of Arcatao and San Antonio Los Ranchos. An FMLN column made up of fifty men penetrated that same day in Canton Los Amates, Department of Chalatenango, thus coming in hostile contact with enemy forces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "15feea54-e79b-4281-93d4-39b56b560eac"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Report of the Anastasio Aquino Paracentral Front"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Report",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7c8ce7e9-fbb0-4522-9430-34ccb06ea539"
+    },
+    {
+      "start_time": 1333,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On May 23rd, FMLN guerrilla comandos attacked the enemy posts in Canton Potrero Grande, in the Department of Cabañas. In this operations, the FMLN forces mined the field and impeded enemy free movement while also anihilating its forces. This action was carried out in the following manner: The hostilities began at 8:20 PM with artillery barrage from the FMLN against enemy forces. This provoked the enemy to haphazardly flee. At 9:00 PM, the FMLN squad of combat engineers retired after mining the field."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "1a90316d-77c8-4b82-92dd-e2326d07a46f"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 10:30 PM, enemy partrols fell unto one of the mines, and the number of their casualties is currently unknown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8ffa296e-a027-4ee9-9b7b-37fa87c59192"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the department of La Paz, patriotic forces ambushed a convoy of the genocidal army in close proximity to Zacatecoluca."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ddebf0fb-261d-482d-8f7c-b08238e2a59e"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two casualties were the result of this operation besides leaving a vehicle damaged y out of commission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "387519c5-4df3-4dfe-abd0-685ffe1d10d4"
+    },
+    {
+      "start_time": 1420,
+      "end_time": 1431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On this same date, guerrilla commandos attached the local command post of the township of Santiago Nonualco in the department of La Paz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9b019a94-20f6-4fee-8c32-5bb87e611578"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With this operation we caused three enemy casualties, two deaths and one wounded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "88e63647-7da6-4c81-acfc-645d594744bd"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Francisco Sanchez Eastern Front Report. On May 24th, in the department of Morazán, around the area of Delicias de Concepción, there was a combat for over three hours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Report",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5465d2db-d097-4b33-9fd8-6715ef89a849"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The FMLN forces caused the enemy several casualties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "12710f1b-4728-45d8-a551-26472ce882be"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the combat was at its strongest point, fifty soldiers of the dictatorship haphazarly fled to the township of Delicias de Concepción in Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Combat",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "26c98de4-bec1-42b4-935f-ce06aa465fe0"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seven wounded of the dictatorship were the result of this action, among them a captain with fractured legs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6704d399-fcb1-4c56-8b5b-07c8db78eeba"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "United to fight until the final victory. Revolution or death, we will prevail. San Salvador, 25th of May 1981. Information Section from the General Command of the Farabundo Martí Front for the National Liberation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "a768ac95-110a-4d24-b5d0-c791fdae4cd0"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Come, Salvadoran, let's fight, our fatherland awaits for your freedom, for your freedom, for your freedom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "379c2618-be3d-4913-b62c-b13fc5bd9dcb"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In San Salvador, the capital hurt by the dictatorship’s repression, despite martial law and curfew, despite the groowing militarization of the streets and other public places, our companions, workers, students, women from the marketplaces, hovel residents, militiamen and combatants operate day and night in liberating campaigns that harass and erode the enemy forces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Report",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3b2c8e51-e636-43d1-bd56-2746944936bc"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The enemy is determined to say that our actions are acts of terrorism. Our people know that this is not the case. This is about the continuity of our just fight for national liberation. This is about the popular response to the crime and repression of the genocidal junta. Forward, comrades of San Salvador. The combatants of the Francisco Sanchez Eastern Front greets you. The present is one of fighting. The future is ours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "de0b6028-5618-478e-95e2-872ec109ae7f"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a fight that lasts years, and that is very costly. For decades, thousands of companions for paid with their lives the premium and first payments of our freedom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "1893cc0f-64c2-4b2e-b05e-44127a9782d9"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comrade Jacinto, Pedro, Juana, or whatever-your-name-is, you joined the ranks of the ones who never die, of the ones who are always present in the actions of every man and woman in the struggle, of all the tortured, of those who live with hunger, of those who survive by dying in hovels. Comrade, friend of justice, your struggle, and also your death, will bear fruit one of these days. Comrade, the dawn of a new day approaches, a day full of peace, of love and of justice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "227817b0-527b-4d8f-9274-ff12b74581ad"
+    },
+    {
+      "start_time": 1666,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fellow worker within the walls of your factory, the slogan is Radio Venceremos, from six to seven (AM), and from six to seven (PM) Radio Venceremos. Expression of the Popular Power over territories controled by our people in arms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "7d3b646c-46be-4a5a-9b59-a03fd56330f6"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will prevail,  we will prevail.  A thousand chains  will have to be broken.  We will prevail,  we will prevail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "e2597880-712f-46a6-8c83-aeee54acac6f"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Up next, we will present an interview with a comrade, a former member of the Civil Guard, who listened to the call of the Farabundo Martí for National Liberation Front and laid down his weapon at the taking of Villa El rosario on April 16 of the current year. Let’s listen to his witness account about the repression."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        },
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d8b36e1e-5dd5-4229-9a9d-4c2cf2ade39e"
+    },
+    {
+      "start_time": 1729,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(The attack) happened because the FMLN forces had taken the villa (El Rosario), and they said that they were going to go in to where the Torola police had entered first."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Morazán",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "fbb671e1-af4b-4d3a-9f37-6cd0852e6292"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They killed whoever they caught there. They killed nineteen, among them children and the elderly just because they were refugees and others from the same town they had them on a list to kill, but among the nineteen that they killed were children, elderly people, and women that were nursing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Violence Against Children"
+        },
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "3294d3a5-8b82-4472-a8e0-a8123a9d852d"
+    },
+    {
+      "start_time": 1762,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there, around five days later was the story in the newspaper about a confrontation in El Rosario Villa where nineteen guerrillas had died and that (the army) had not suffered any casualties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        },
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "0833a538-8c9a-4da3-a661-12ebfab1403b"
+    },
+    {
+      "start_time": 1773,
+      "end_time": 1773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this was in what month?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "cb558d6f-17d6-4116-afff-5eddbb1336a9"
+    },
+    {
+      "start_time": 1774,
+      "end_time": 1796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In January. And I said to myself, “Fuck, that’s how they’re lying to these people.” And I said, “and here I am, one of them, being an accomplice to these huge massacres.” That’s when I became convinced that it was very true. Of course, the huge massacres that they commit are in front of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "e18dbbcc-dd99-4648-927b-141266ae83a1"
+    },
+    {
+      "start_time": 1797,
+      "end_time": 108300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, in Villa El Rosario the army assassinated nineteen people, and then they made it seem as if they were--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "57be059c-7e0e-49bb-a5b8-bf182d94ace9"
+    },
+    {
+      "start_time": 1806,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As guerrillas, and since they were elderly, children, and nursing women, that's were I was convinced, when I realized what we were burying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "817af4fa-e045-40ad-95c4-06c5baef734a"
+    },
+    {
+      "start_time": 1816,
+      "end_time": 1818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember any of the names of the dead?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "a13243b7-7e56-4455-acfe-8e2b9b749a1e"
+    },
+    {
+      "start_time": 1819,
+      "end_time": 1822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, only one, his name was Federico Marquez. He was from the center (of town)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "41fe5c16-29c5-4461-b04d-193044b5f4f3"
+    },
+    {
+      "start_time": 1823,
+      "end_time": 1824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you saw the bodies?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "1cc079ce-1a9e-447c-8415-f8820a40adca"
+    },
+    {
+      "start_time": 1825,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I saw them. One had his teeth out, others were beheaded, which is how they assassinated Federico; a machete wound in the back of the neck they gave him, and they left him half-alive, and he had to finish dying on his own. Then, well, there was this officer, too, and he was stationed there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "90ae9ea6-e9e8-414f-b7f8-218ac52d7840"
+    },
+    {
+      "start_time": 1841,
+      "end_time": 1841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was his name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "d56fa77c-b6d1-49fd-8a19-4af32a92ee94"
+    },
+    {
+      "start_time": 1842,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His name was Grande García."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "684f1e55-e1a8-45f3-8040-90cf66fc4c3f"
+    },
+    {
+      "start_time": 1843,
+      "end_time": 1845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grande García."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "988aa773-b123-45e6-aaa9-87de20116134"
+    },
+    {
+      "start_time": 1846,
+      "end_time": 1879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, of course. There was a huge loss of control with that particular police officer from Torola because he was already there, see? And he already knew everyone (in the town). So then, Liutenant Grande, Mr. Quito, and that one that returned told them of Torola, “Fuck, you guys,” he said, “you’re all massacaring people, and how,” he said, “are we going win?” he said. “What? You must be a subversive,” they told him. “Sure,” he said to them, “If I’m a subversive,” he said to them, “here’s my equipment and everything,” he said, “kill me.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "7e4c8ebc-4f90-4986-b475-338fb6bd675d"
+    },
+    {
+      "start_time": 1881,
+      "end_time": 1903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right now, it’s a weakness that they have. Some of them like to massacre (people), and other are at this moment on the people’s side, and maybe they’re there because of the salary or because of some obligation that they have with high command, or the high commanders put them there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "bdefe8b7-2149-4768-a54e-aaad7a2014a1"
+    },
+    {
+      "start_time": 1903,
+      "end_time": 1910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, you're saying there's a contradiction in the army itself. There's officers and soldiers that are conscious of the massacres."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewer",
+          "category": "Person"
+        }
+      ],
+      "uuid": "fdab47e9-4e94-4797-8230-e356c90bf026"
+    },
+    {
+      "start_time": 1911,
+      "end_time": 1957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are some that do not agree with going around massacring the people, and others that do (agree). I would make a calling to all of those officers, cadets--I was a sergent--liutenants, second liutenants, that I have known them, that they are not assassins, that they do come for the people, that they should leave those ranks, that they should join our people, that they will be received well here. And it’s not just anyone who’s telling you this, but it’s someone who has sone it, and who is seeing it, and who has lived through it, and I’ve surrendered here, and I have served as a witness as the best comrade--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "ac612ba3-6edc-468b-b401-653457268474"
+    },
+    {
+      "start_time": 1958,
+      "end_time": 1986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel very happy to be here because they had us deceived, and although they say they’re winning, that the revolutionary forces are made up by two or three and that they’re losing. That’s how they have many people deceived. It’s when one becomes aware that one can no longer be deceived, and if there are any deceived I want it to be clear, stop letting them deceive you. Our people will never lose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "5b22d54e-9c64-4bba-8c92-a7ad5cf75192"
+    },
+    {
+      "start_time": 1987,
+      "end_time": 1994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…will never be defeated. A people united, will never be defeated."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "cdaaa3f6-321f-4863-9a36-7ea4eeb163d3"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 2016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have heard the testimony of Santiago Argueta Sanchez, a former member of the Civil Guard who heeded the calling of the Farabundo Marti for National Liberation Front and laid down his weapon at the taking of Villa del Rosario on April 16th of this year and thus joined the people’s struggle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "329d5457-53e2-484d-9436-fad5e9fd709c"
+    },
+    {
+      "start_time": 2017,
+      "end_time": 2042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your song and your flag will see The light bloom in the face of a dawn  Announcing the life that will come Marching on foot, the people will triumph The life that will arrive will be better To conquer our happiness And in one shout"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "735b61e8-ac60-4bb3-a879-899d63034c5a"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These are the words of a young Salvadoran who held the weapons the dictatorship gave him and who today bears the weapons of the people. It is a reflection of what is happening in the middle of the Armed Forces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f17684c7-33fe-4a81-88b4-819b6185e8c8"
+    },
+    {
+      "start_time": 2061,
+      "end_time": 2111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s the awakening awareness of those who belong to the exploited classes and who have remained deceived by the criminal high military command, those who have been recruited by force or out of necessity have remained in the army and at the service of the oppresion. Those peasant soldiers have begun to open their eyes, have begun to question the trenches they have occupied. They have begun to ask themselves, “Why do I fight?” “Who do I serve?” “For whom am I sacrificing my own life?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "21b1c83c-7676-4fea-9ec1-5f20d31c511b"
+    },
+    {
+      "start_time": 2111,
+      "end_time": 2158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Jucuaran, department of Usulután, soldiers of the third brigade refused to fight against the forces of the Farabundo Marti for National Liberation Front. In Torola, five police of the tax office (Hacienda) abandoned their their posts with their issued weapon and equipment. The same thing is happening in the entire country. Soldiers who have become aware of the misery that they’ve since their roots, (they’ve also become aware) of the repression which they themselves have executed as blind instruments of the oligarchical power and of imperialistic designs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        },
+        {
+          "tag": "Usulután",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "235c7591-5dd8-456d-bc23-699a43d92af8"
+    },
+    {
+      "start_time": 2159,
+      "end_time": 2182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soldiers have their own combat post with their own people, and those who have made that decision and have joined our ranks have been well received, by their brethren of class, with the respect and brotherhood that all have come to know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "faf818b6-6f11-479a-a574-ea6d032b7253"
+    },
+    {
+      "start_time": 2184,
+      "end_time": 2224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We showed this recently in the case of soldier Santos Enrique Diaz Alvarenga, the third brigade of San Miguel. And now we have just heard the testimony of Santiago Argueta Sanchez, a former civil guard in Villa del Rosario. In this town when our forces too the enemy’s possession’s, Santiago Argueta Sanches deposed his weapons in response to our combatants’ calls (to join their ranks), and he laid down his weapons and joined our forces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        },
+        {
+          "tag": "Argueta Sánchez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "637afadc-9094-4a48-939b-4532d26173b0"
+    },
+    {
+      "start_time": 2225,
+      "end_time": 2258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He immediately expressed his sincere and conscientious desire to join the ranks of the people, and the statements that he has declared to us reiterate what we all already know, that in the National Army there are profound challenges between the military high command and officers, classes, and soldiers that are do not agree with the genocide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "345693c3-7734-4c64-82cf-ea485d6b07f5"
+    },
+    {
+      "start_time": 2259,
+      "end_time": 2284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, to make these challenges even more acute, within the National Army young officers most likely cannot how Yankee military adviser the day to day take over the lion’s share of the military operations agains the people, thus giving it everyday a more criminal nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "212bf7d5-f60b-4098-bd1b-fad3b6a21716"
+    },
+    {
+      "start_time": 2285,
+      "end_time": 2324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The case of the soldiers that disobeyed the order to fight against the opposition forces of the Farabundo Marti for National Liberation Front, that is to say, the opposition forces of the people, moves us to encouraging reflections on what is happening in the center of the army, in addition to the fact that they’ve been unable to garner any military victory in all their operatives against our positions in the entire national territory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d3431655-ef96-4c8c-879c-e1e0816e5624"
+    },
+    {
+      "start_time": 2325,
+      "end_time": 2353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While this is all happening, the people are joining the militias, they are joining their (own) army, they are integrating into the cornfields of the people to produce the sustenance for the revolutionary army. They consolidate the zones under their control while the dictatorship lives its worse moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "79abbe22-89eb-4e39-a3a5-8e4a5d8d7947"
+    },
+    {
+      "start_time": 2354,
+      "end_time": 2391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Each day, the people is becoming more convinced that victory is within the reach of their united and persevering hands. Hope overwhelms us all, and that is why we close our fists, and we are achieving victory with combat blows. That is, today more than ever we have the conviction that we will prevail, which means that soon we will conquer peace and social justice for our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ea3b9a4c-0245-439c-916e-14562fd6bfe7"
+    },
+    {
+      "start_time": 2392,
+      "end_time": 2415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...work, they will go, they will cover the fatherland. Now its way announces the future.  On foot, singing, the people will triumph. Now millions impose the truth, they're made of steel the scorching battalions, their hands go..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "8bfae76e-b5a9-4c15-ba50-cff15a4a671d"
+    },
+    {
+      "start_time": 2416,
+      "end_time": 2424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From El Salvador, Centroamérica, a territory in combat against opression and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d7978146-0adb-42b6-bea9-4b5bdb7ffce9"
+    },
+    {
+      "start_time": 2425,
+      "end_time": 2437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos transmits. The official voice of the Farabundo Marti for National Liberation. Breaking the dictatorship’s information siege."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "fef4c5e4-4958-4d64-9946-3b12894f9bb8"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people, united, shall never be defeated The people, united, shall never be defeated The people, united, shall never be defeated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "54dd42b5-9422-436f-b46b-58d8ac8b4c5b"
+    },
+    {
+      "start_time": 2455,
+      "end_time": 2456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now we present..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b60737fb-83de-4bae-a971-ce792340e9be"
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Global Information!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "f3e078d1-8dae-48d3-9636-ea82070e974b"
+    },
+    {
+      "start_time": 2459,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Machine gun fire)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effects",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "2b162255-f626-4c27-9d1e-27807bd74c4e"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Revolutionary Democratic Front [FDR] and the Farabundo Marti for National Liberation Front [FMLN] extend condolences for the passing of President Jaime Roldos. With the tragic death of the President of Ecuador, Jaime Roldos, which occurred this past Sunday in an airplane accidente, in which also died six other people, including the president’s wife and the Minister of Defense, the FDR and the FMLN sent their condolences to the Ecuatorian people and its government."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "6ab0d688-3d4e-47ea-a6c1-45d5458d9c73"
+    },
+    {
+      "start_time": 2510,
+      "end_time": 2531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through this communiqué we express our condolences to these organizations for the aforementioned event. This communiqué is signed by Commandor Ana Guadalupe Martinez, on behalf of the politico-diplomatic commission of both organizations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "9d1977c1-26fe-41a4-a39d-80d270f06ecd"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The message says the following, “Profoundly dismayed by the tragic passing of President of Ecuador, Dr. Jaime Roldos Aguilera, his wife, and the Defense Minister. The FDR [Revolutionary Democratic Front] and the FMLN present their condolences to the Ecuatorian people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "5883566b-6a4b-40fe-be35-d8e82273262e"
+    },
+    {
+      "start_time": 2558,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because of the dictatorship's information siege, Radio Venceremos is on the air, informing our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "1adb6d97-8ae2-461c-835d-b36a1faf642b"
+    },
+    {
+      "start_time": 2566,
+      "end_time": 2599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alexander Haig, repudiated by the Northamerican people. In a cable sent by the France-Presse news agency, the Northamerican Secretary of State, Alexander Haig, while he delivered a violent speech about the alleged interference of the Soviet Union in matters of the Third World at a university in Connecticut, several hundreds of people protested their opposition to Haig’s policies, particularly in regards to our country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "8a9939bd-d3f7-4497-aaeb-e3d11bb8ad93"
+    },
+    {
+      "start_time": 2600,
+      "end_time": 2633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Additionally, the news agency asserted that while Haig spoke, a group of protesters called him a murderer. The students, according to the report, were quickly expelled from the theater where Haig delivered his speech. The cable also added that at the beginning of the speech, twenty-something university faculty left the facility and in that way express their opposition to the United State’s foreign policy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "bc246bec-3b68-47d6-ad7f-f0bcacf19aa3"
+    },
+    {
+      "start_time": 2633,
+      "end_time": 2644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mexico, Federal District. Radio Venceremos, official voice of the Farabundo Marti for the National Liberation Front, transmits clearly to that country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "e44069ac-9ff7-44f6-9543-3ac75dbbc6c5"
+    },
+    {
+      "start_time": 2645,
+      "end_time": 2668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Furthermore, the Committees for Solidarity for El Salvador in Mexico have expressed to us that they have great activity, and they’ve received mass response from the Mexican people, siempre a friend to our just cause. More information through Radio Venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "World Report"
+        }
+      ],
+      "uuid": "78d0cb0c-1bfc-4c01-a8fb-872615f8837f"
+    },
+    {
+      "start_time": 2669,
+      "end_time": 2682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four members of the genocidal army died and several others were wounded by a mine explosion found in a stony hill in Zacatecoluca, in the south of San Salvador."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "35724203-907a-4dd0-90d8-5bb11f179c86"
+    },
+    {
+      "start_time": 2683,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "According to reports from the regime's spokespeople, three of the dead were members of the repressive army of El Salvador, who were getting ready to take away the boulders that blocked the way when the bomb that combatants of the Paracentral Anastasio Aquino Front had placed exploded."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "21cc5a5a-e29e-444a-8c2d-1688d6643897"
+    },
+    {
+      "start_time": 2701,
+      "end_time": 2704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Machine gun fire)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effects",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "00fc8b82-60e8-402f-b4ae-5eace202fbc9"
+    }
+  ],
   "event_id": "f579030a-b5c1-46d1-b1ad-0cb74c3f250e",
   "set": "English Annotations",
   "source_id": "c2223872-acd3-4b4c-8926-5f375171243f"
