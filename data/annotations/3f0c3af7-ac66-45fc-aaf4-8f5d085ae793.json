@@ -1,5 +1,1882 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sobre esto informaremos con más detalles en las próximas horas. Los mandos ejecutivos del ataque al enemigo en la Guacamaya y El Mozote son los siguientes, mando general, compañero comandante Silvio de Jesús Argueta, \"Licho\". Mandos de las diferentes direcciones de ataque, compañeros comandante Bracamonte, El Mozote y Arambala, comandante Gallo, cerro los Márquez, cerro Guadalupe, comandante Ángel, pie del Cerro Redondo y escuela de la Guacamaya."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "9d07368a-7987-4586-8c41-eac03fdc7e4b"
+    },
+    {
+      "start_time": 44,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otros mandos destacados son los comandantes de pelotón, compañero Freddy, compañeros Sánchez y los compañeros de la sección de comandos y francotiradores y de la escuadra de ametralladoristas. Por otra parte, la incursión a las posiciones enemigas en la ciudad de San Miguel estuvo a cargo del compañero comandante Faustino y la incursión a Usulután a cargo del compañero comandante Chungo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a3c6e0c7-71b2-4308-bc75-f0c6dbc6c26e"
+    },
+    {
+      "start_time": 79,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al mando de la emboscada de contención a los refuerzos de San Francisco Gotera estuvo el compañero jefe de zona y comandante Javier. A estos jefes, a los jefes de los ataques, a todas las poblaciones y a todos nuestros heroicos combatientes nuestro reconocimiento público a su valentía y abnegación para con la causa de nuestro pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4739d3d5-43b8-4031-a194-9f3f87054f45"
+    },
+    {
+      "start_time": 107,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mantenemos siempre indeclinable nuestra decisión de vencer y nuestra profunda convicción de que la lucha heroica de nuestro pueblo culminará con la expulsión de las dictaduras y los asesinos en nuestra patria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "Asesinatos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "f99cdf81-b8ca-4096-be4d-30c743d6d087"
+    },
+    {
+      "start_time": 127,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reiteramos nuestra confianza en una conjugación de esfuerzos con todos los sectores democráticos del país para encontrar la solución política a la crisis salvadoreña que enrumbe nuestro proceso hacia la consolidación de una salida democrática, condición indispensable para el desarrollo de nuestra economía, nuestra sociedad y la fortaleza de nuestro sistema jurídico-político."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e60d89ca-586a-4f2e-bc5b-f57f19c949ee"
+    },
+    {
+      "start_time": 163,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aprovechamos esta fecha de fin de año para saludar a todos nuestros compañeros militantes del Frente Farabundo Martí para la Liberación Nacional en las diferentes tareas, tanto en los frentes de guerra como en las batallas del frente exterior en la solidaridad y la lucha diplomática y a nuestros compañeros militantes que luchan en las cárceles en el quinto frente de guerra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "214c9f65-eb2a-4a67-85f5-3eb6b7277484"
+    },
+    {
+      "start_time": 197,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saludamos a nuestro heroico pueblo seguros de que 1982 es el año que reivindicará con una victoria popular la sangre derramada por más de 30.000 salvadoreños. Unidos para combatir hasta la victoria final, revolución o muerte, venceremos. Por la comandancia político-militar del Frente Oriental Francisco Sánchez, comandante Jorge Meléndez, \"Jonás\", comandante Juan Ramón Medrano, \"Balta\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "062ffdd5-d057-4296-9d2d-bacb3f6d0a94"
+    },
+    {
+      "start_time": 241,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…hermanos unidos para combatir\navancemos a la revolución\nconstruyamos un futuro de progreso y dignidad.\nRevolución o muerte venceremos\nFarabundo Martí nos inspiroó\ny hoy resurge victorioso en nuestro frente\nla bandera roja y blanca nos protegerá\ny una estrella el sendero nos señalará."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "37606db6-3893-44c9-b9e8-422f9e9ae3e6"
+    },
+    {
+      "start_time": 272,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recordamos a nuestros oyentes que en el día de hoy, 31 de diciembre, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional, emitirá una transmisión especial a las 10:00 PM por la misma frecuencia de nuestras emisiones habituales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "f4e7fc38-fb2c-49bb-9a3c-b1b3649b1d03"
+    },
+    {
+      "start_time": 294,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El compañero y sacerdote Rogelio Ponseele oficiará una misa de fin de año en memoria a los héroes y mártires salvadoreños caídos en la lucha por la conquista de la paz, la democracia y un Gobierno de amplia participación. Repetimos, esta noche a las 10:00 PM Radio Venceremos por la frecuencia acostumbrada."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Rogelio Ponseele",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "65a06ae4-9c8f-4f37-90a6-001af4338b67"
+    },
+    {
+      "start_time": 320,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuación, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional presenta al compañero José Leoncio Pichinte, responsable político de Radio Venceremos y miembro de la comandancia político-militar del Frente Oriental Francisco Sánchez zona norte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "75f45e49-fbb6-48a0-afeb-262a358cf40d"
+    },
+    {
+      "start_time": 345,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faltan pocas horas para que termine este año. Un año en el que nuestro pueblo desplegando grandes sacrificios y esfuerzos ha fortalecido y consolidado, tanto sus fuerzas revolucionarias democráticas como sus instrumentos que lo están conduciendo al triunfo definitivo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "df0984f9-5634-4106-9725-5eb8b1636c31"
+    },
+    {
+      "start_time": 368,
+      "end_time": 410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta ocasión en que en nuestro pueblo se aviva el amor por la paz y la verdadera democracia. Como miembro de la comandancia político-militar de la zona norte del Frente Oriental Francisco Sánchez y como responsable político de Radio Venceremos envío un saludo revolucionario y fraternal a todos los miembros del Movimiento Nacional Revolucionario, MNR, Movimiento Popular Social Cristiano, MPSC, y al Movimiento Independiente de Profesionales y Técnicos de El Salvador, MIPTES."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "faaddb8e-aefa-4833-b782-c5ef08c0f2d6"
+    },
+    {
+      "start_time": 411,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A todos los miembros de la Coordinadora Revolucionaria de Masas, CRM. A todos los colaboradores y simpatizantes del Frente Democrático Revolucionario y del Frente Farabundo Martí para la Liberación Nacional y a todo nuestro pueblo en general."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1ff58411-9c6d-40f0-b426-bb06f07fc33a"
+    },
+    {
+      "start_time": 430,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta ocasión me es oportuna para presentar ante ustedes un informe acerca de Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional, con el objetivo de ubicar por qué surge el papel que ha jugado en el avance de la lucha de nuestro pueblo, lo que significa en el actual momento y acerca de su lugar de transmisión."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "53951a59-dd9d-4294-8504-8bd9e4d9f207"
+    },
+    {
+      "start_time": 461,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El pueblo salvadoreño por largos años ha venido luchando por terminar con la represión, el hambre, la miseria, la opresión y el atraso a que lo han sometido el alto mando fascista de las Fuerzas Armadas, la oligarquía y el imperialismo norteamericano, por conquistar sus libertades democráticas y hacer respetar sus derechos fundamentales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "a9bc7b9f-5253-4f1c-b703-582ce6fd244b"
+    },
+    {
+      "start_time": 491,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libertades y derechos que actualmente buscamos concretizar a través de un Gobierno, que sea el resultado de la confluencia de todas las fuerzas democráticas y progresistas que buscan construir la paz y la reconstrucción para El Salvador. Dentro de este marco histórico se ha destacado la lucha por la libertad de expresión del pensamiento llevada a cabo por las fuerzas, sectores democráticos y progresistas y las fuerzas revolucionarias de la sociedad salvadoreña."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "35bf0f09-dc52-4e63-ae21-2b2fd24cef10"
+    },
+    {
+      "start_time": 527,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llegamos a un momento en que la dictadura en nuestro país acaba con la libertad de expresión, son capturados, desaparecidos y asesinados periodistas. Es cerrada la crónica del pueblo. Es cerrado el periódico El Independiente. Estúpidamente dinamitada la YSAX. Es asesinado la voz de los sin voz, Monseñor Romero. Incluso, son perseguidos, capturados y hasta asesinados periodistas extranjeros destacados en el país."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "8083cb2f-3300-4050-bc99-409789062042"
+    },
+    {
+      "start_time": 564,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es en este contexto que el pueblo salvadoreño con sacrificio, enormes esfuerzos y con su creatividad va creando sus propios medios y métodos de expresión popular. Guiado ahora sobre la base de un poder político militar surge Radio Venceremos, el 10 de enero de este año, acompañando la ofensiva general que lanzó el pueblo vanguardizado por el Frente Farabundo Martí para la Liberación Nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "395d8b36-862c-44b9-bf8d-ca6e2c0c6d88"
+    },
+    {
+      "start_time": 602,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos es el resultado de largos años de lucha de nuestro pueblo y de sus fuerzas democráticas progresistas y revolucionarias, por ello es la genuina expresión del poder popular. Por tanto, es una radio del pueblo. Y divulga todas aquellas ideas, pensamientos y posiciones que busquen verdaderamente la paz, la democracia y el bienestar para todos los salvadoreños. Divulga, pues, todo planteamiento que busque hacer avanzar hacia el progreso a la sociedad salvadoreña."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "31c2ade6-dd2e-4d41-a4c1-dc46eef554ce"
+    },
+    {
+      "start_time": 648,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos como expresión del poder popular ha jugado y seguirá jugando un valiosísimo papel en el avance de la lucha que heroicamente libra a todo el pueblo por terminar con medio siglo de dictaduras militares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "8290508d-a628-43de-bac3-43355cd77162"
+    },
+    {
+      "start_time": 668,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, al igual que las masas populares desplegando grandes sacrificios y esfuerzos, creatividad e iniciativa, ha mantenido informado y ha educado al valiente y heroico pueblo salvadoreño. Ha informado a los demás pueblos del mundo. Ha combatido la desinformación que lanza el imperialismo yankee y la dictadura militar demócrata cristiana. Ha sabido destacar el desarrollo del poder popular y ha orientado a las grandes masas populares en su lucha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "1f9a7340-c0e3-4979-b6eb-4d21373d8e45"
+    },
+    {
+      "start_time": 710,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En las condiciones actuales del desarrollo de nuestra guerra, Radio Venceremos también llena en gran medida la insuficiencia de propaganda escrita de las fuerzas democráticas, progresistas y revolucionarias de nuestra patria. La existencia de Radio Venceremos en el departamento de Morazán expresa de manera clara lo inevitable del triunfo del pueblo salvadoreño y de lo indestructible que es el Frente Farabundo Martí para la Liberación Nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "75922a69-e2a8-43c8-a356-1b909a8c68b9"
+    },
+    {
+      "start_time": 747,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El psicópata del coronel García ha informado varias veces que ha destruido a Radio Venceremos y siempre ha sido falso. Siempre Radio Venceremos ha transmitido. Lo mismo acaba de pasar, lanzaron un operativo genocida que buscaba destruir a la radio. Nosotros desde antes ya sabíamos de este operativo y de sus intenciones, lo dimos a conocer y nos preparamos para derrotarlo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "74e9a4ff-9059-47d0-aa28-56c277f20fc3"
+    },
+    {
+      "start_time": 779,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así, desde días antes, Radio Venceremos redujo el tiempo de transmisiones a 15 y 20 minutos, nos alistábamos para entrar en la guerra de movimientos. García, después de que no salimos al aire, dijo pomposamente habernos destruido y capturado al personal intentando con ello desmoralizar a nuestro valiente pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "4e00b18d-1712-4aca-add1-cbd09098ea26"
+    },
+    {
+      "start_time": 809,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué ha pasado? Después, Radio Venceremos sigue transmitiendo y con su mismo personal desde el departamento de Morazán, le guste o no le guste al coronel García y a la genocida junta militar demócrata cristiana. Radio Venceremos transmite dese el departamento de Morazán no desde Nicaragua como pretende hacerlo creer este señor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "df0c5bbb-1e81-4ed6-a429-438b401164c1"
+    },
+    {
+      "start_time": 840,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta acusación más bien es una forma de evadir el hecho de que las fuerzas revolucionarias han fortalecido y consolidado una retaguardia y un poder en El Salvador. Al no poder destruirla, tratando de matar su chucho a tiempo declara que en Morazán lo que está es una repetidora y que el transmisor está en Nicaragua y que hasta allá no puede ir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "morazán"
+        }
+      ],
+      "uuid": "06f1359c-1636-48d2-8be8-26e934991dba"
+    },
+    {
+      "start_time": 872,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es tanto el dolor que le causa Radio Venceremos que se desespera y ya no puede ni mentir. Si Radio Venceremos estuviera en Nicaragua no había razón para que al momento de los combates dejara de transmitir. Al contrario, hubiéramos salido con mejores programas y mayor calidad técnica dada las condiciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "a4fd22ec-5d13-4e9b-91f1-544f3c258ae8"
+    },
+    {
+      "start_time": 901,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Además, pónganse a pensar que la voz de Nicaragua se escucha en El Salvador y sin tener un repetidora aquí, lo mismo podríamos haber hecho nosotros. Es decir, desde el punto de vista técnico este señor no puede engañar a nadie, tampoco lo puede desde el punto de vista de los principios políticos del Frente Farabundo Martí para la Liberación Nacional y el Frente Democrático Revolucionario."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "fe212ee3-a04f-4977-b868-5ceb579b0690"
+    },
+    {
+      "start_time": 931,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros como revolucionarios democráticos tenemos principios, respetamos la soberanía territorial de los demás pueblos, no somos como el psicópata de García y la junta, sin principios, que fácilmente se pasan al territorio de Honduras para combatir contra nuestras fuerzas violando así la soberanía de ese hermano pueblo. Nosotros no somos como los gusanos cubanos que con tranquilidad han montado una radio en territorio norteamericano, nosotros tenemos principios políticos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1d95f501-b90f-4210-893e-bc06f040bab2"
+    },
+    {
+      "start_time": 970,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En tal sentido, Radio Venceremos es una radio dentro del territorio salvadoreño en el departamento de Morazán. Es una radio en guerra, si no, no fuera Radio Veneremos. Está ubicada en territorios controlados por nuestras fuerzas. Es una valiosa conquista de nuestro pueblo alzado en armas. La verdad de las cosas es que quieren ocultar el hecho de que existe Radio Venceremos y que el ejército sabe dónde está y no puede destruirla. Es una prueba de lo cercano que se encuentra el triunfo para el pueblo salvadoreño."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "611b1696-bbd7-43ed-a78e-2be026dedb54"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finalmente, quiero reiterar que estamos hoy más que nunca con la inquebrantable decisión de continuar aún con mayor esfuerzo cumpliendo con las tareas y misiones encomendadas por nuestra comandancia general y con las necesidades de la lucha de nuestro pueblo, rompiendo así el cerco informativo fascista e imperialista, educando a nuestro pueblo, orientando a las grandes masas populares que cada vez se acercan más hacia la derrota de la dictadura militar demócrata cristiana e informando al resto de los pueblos del mundo. Revolución o muerte, venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "4c9b3268-b491-4da9-adc1-e527edcf03c1"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En cada mano se da una espiga.\nEn cada puño la victoria final.\nPor la paz, unidad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "a5aa4a9b-e156-46c4-9674-c2eab0c41bb3"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A continuación, Radio Venceremos presenta el mensaje de año nuevo del Frente Farabundo Martí para la Liberación Nacional del pueblo salvadoreño."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "8d2117ca-ec56-4a0a-a632-2ff6c5c95946"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libertad.\nUnidad.\nLibertad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "7136816a-bb3e-4a8b-98bc-0d7b956bf30f"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este mensaje de año nuevo del Frente Farabundo Martí para la Liberación Nacional al pueblo salvadoreño llega en momentos en que el desarrollo de la guerra señala un horizonte de optimismo y esperanza para alcanzar el objetivo popular de conquistar la democracia, la justicia social y la paz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "691af399-8245-4390-974f-fc1f5cda0117"
+    },
+    {
+      "start_time": 1128,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La heroica lucha del pueblo nos permite expresar la confianza de que en 1982 será un nuevo año que traerá grandes victorias para nuestro pueblo en su lucha por instaurar un régimen de amplia participación y de plena autodeterminación de nuestro destino nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b104b09e-757a-4817-bc44-901d5de33a73"
+    },
+    {
+      "start_time": 1156,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En nuestro reciente y último pronunciamiento hacíamos un balance del año, un balance favorable a la lucha ejemplar de nuestro pueblo y exponíamos los fracasos y derrotas sucesivas de las tácticas que la dictadura militar democristiana ha puesto en práctica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d934ede9-482e-4659-b868-1232a38370ab"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El año de 1982 ofrece dos caminos y una sola vía de solución. Por una parte, un túnel oscuro y sin salida que solo significa muerte y destrucción representado por el actual Gobierno en franco deterioro político, económico y militar, y vanamente empecinado en prolongar su agonía mediante la creciente intervención del Gobierno de los Estados Unidos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "6dfc5e50-097d-4b5b-bd17-6942903aa76d"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otra parte, el camino del pueblo hacia la solución verdadera que recoge las aspiraciones de paz, no solo de las más amplias mayorías nacionales, sino de los pueblos de Centroamérica y de toda la comunidad internacional que se preocupa e interesa por una solución democrática integral."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e80731e9-fbba-40c7-803a-11e001b22bca"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nuestros avances militares posibilitan también nuestros avances políticos. Nuestra responsabilidad con el pueblo nos obliga a progresar en el desarrollo de una política de búsqueda de la mejor solución que evite la prolongación de la guerra y de los sufrimientos del pueblo, la intervención mayor y masiva del Gobierno de los Estados Unidos y la regionalización del conflicto salvadoreño."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a8f6eabd-5339-4142-8f6a-ec31df7a75e2"
+    },
+    {
+      "start_time": 1296,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nuestra voluntad está empeñada en ello, pero igualmente está firmemente decidida a continuar y a avanzar en la lucha militar y política mientras los enemigos de la paz y del pueblo persistan en su estrategia de guerra de exterminio popular con disfraz electoral."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "José Leoncio Pichinte",
+          "category": "Persona"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e80a5bb5-0974-4d46-b2a8-a08346120977"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este nuevo año es una ocasión oportuna para que le reiteremos al pueblo salvadoreño nuestra disposición, interés y voluntad de diálogo, entendimiento y negociación para alcanzar una solución política justa con todos los sectores y grupos políticos, económicos y sociales interesados en participar en el esfuerzo común de construir una patria libre de opresión, represión y terror en la que impere la convivencia democrática y prevalezcan los intereses populares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "10cb6800-0583-4c9c-9a44-c98e371b9af5"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nacional e internacionalmente es creciente la convicción que se fundamenta en la realidad de que sin el movimiento revolucionario y democrático no puede haber solución política al conflicto armado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "f6511913-492f-4af6-8a78-1e7f0a3b1393"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 86580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La fuerza moral y política que tienen el Frente Farabundo Martí para la Liberación Nacional y el Frente Democrático Revolucionario nos impulsan a continuar desarrollando en 1982 su oferta de paz, pero también a profundizar y a avanzar en la guerra si persiste la voluntad genocida y antidemocrática del actual Gobierno y de su principal apoyo la administración Reagan de los Estados Unidos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "0e7c6792-940e-4ebb-a666-533692e83b89"
+    },
+    {
+      "start_time": 86640,
+      "end_time": 89040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta fuerza es respaldada por el espíritu firme de nuestros combatientes y de la gran mayoría del pueblo que los estimula y apoya de diversas formas. Mantenemos una posición consecuente, libre de prepotencias y de criterios excluyentes a fin de ampliar y mejorar las posibilidades de búsqueda de un acuerdo nacional que conduzca a una solución justa y verdadera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "5d12e302-2009-4a2a-8b29-799f3f3bbb86"
+    },
+    {
+      "start_time": 89100,
+      "end_time": 91500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La comandancia general del Frente Farabundo Martí para la Liberación Nacional saluda en este fin de año de manera fraternal y revolucionaria a todos y cada uno de los heroicos combatientes y militantes de todas las áreas de trabajo de nuestra organizaciones que con su esfuerzo y empeño han fortalecido política y militarmente a nuestro pueblo en este año de grandes victorias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e9181f7c-f1fa-4cc7-b895-38866a108a6f"
+    },
+    {
+      "start_time": 91560,
+      "end_time": 94920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saludamos en este fin de año la memoria de nuestros héroes y mártires que durante este año dieron su vida por la noble causa de la justicia, la paz y la democracia. Saludamos en este fin de año a nuestros hermanos presos y desaparecidos que desde las cárceles derrotan a la dictadura con las armas de la dignidad revolucionaria, poniendo en alto el espíritu y el coraje de las fuerzas de nuestro pueblo. Saludamos en este fin de año a nuestro pueblo trabajador, esforzado y heroico y nos comprometemos a seguir siendo fieles a sus intereses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "85de27d6-846c-4ea2-8704-c2e7fd56be9a"
+    },
+    {
+      "start_time": 94980,
+      "end_time": 98340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saludamos en este fin de año a los sectores democráticos del ejército de la empresa privada, de la iglesia y a las organizaciones políticas y gremiales que anhelan la paz y la justicia. Los instamos a que juntos y sin prepotencia encontremos el camino de la solución justa. Saludamos y agradecemos en este fin de año a todos los pueblos, gobiernos y organizaciones políticas y humanitarias que le han brindado a nuestro pueblo una solidaridad moral, material y política de un valor incalculable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "81610fb7-e1b7-4121-8943-afef3c0bd4e7"
+    },
+    {
+      "start_time": 1640,
+      "end_time": 100200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reiteramos finalmente que pondremos todos nuestros esfuerzos porque 1982 sea el año en que triunfen la justicia y la paz en nuestra patria por el camino que la circunstancias nos impongan. Unidos para combatir hasta la victoria final, revolución o muerte, venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "63cc2549-98ba-468b-8e8b-dfec7aa47bad"
+    },
+    {
+      "start_time": 100260,
+      "end_time": 101940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fermán Cienfuegos, Salvador Cayetano Carpio, \"Marcial\", Schafik Jorge Hándal, Roberto Roca y Joaquín Villalobos por la comandancia general del Frente Farabundo Martí para la Liberación Nacional. El Salvador, 30 de diciembre de 1981."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "02d7b87e-9135-41d3-973f-a1ffc6978640"
+    },
+    {
+      "start_time": 102000,
+      "end_time": 103440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hemos escuchado el mensaje de fin de año que envió al pueblo salvadoreño la comandancia general del Frente Farabundo Martí para la Liberación Nacional en los albores de 1982 año de las grandes victorias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1cc25a79-d90d-455e-8e99-4c1f4557ae04"
+    },
+    {
+      "start_time": 103440,
+      "end_time": 105660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Parte de guerra de la comandancia general del Frente Oriental Francisco Sánchez, zona norte. La comandancia general del Frente Oriental Francisco Sánchez, zona norte, comunica al pueblo salvadoreño que a todos los capturados de Perquín y la Guacamaya en agosto de este año, así como a todos los capturados en los días 29 y 30 de diciembre de este año en la Guacamaya ha decidido dejarlos en libertad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "0435c513-25f4-474a-b638-c3501444282d"
+    },
+    {
+      "start_time": 105720,
+      "end_time": 108420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta decisión obedece al hecho que la Cruz Roja Internacional manifestó estar incapacitada para recibir a los prisioneros por la falta de garantías para ello debido a la negativa de la Junta Militar Democristiana y el alto mando militar para reconocer la existencia de prisioneros de guerra. La decisión de dejar en libertad a los prisioneros de agosto se hizo efectiva el día 28 de diciembre de este año, a excepción de los soldados incorporados a nuestras filas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "51f5f54e-602e-4536-bb90-bfd46c726902"
+    },
+    {
+      "start_time": 108480,
+      "end_time": 110520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los compañeros Pablo Arana Pacheco, Juan Antonio Peñate, Santos Diego Diaz, Luis Sandoval y Luis Alonso Torres. Esta noticia no se dio a conocer antes en base a una petición de los mismos exprisioneros de mantener tres días de secreto para proteger sus movimientos ya que si la junta se daba cuenta los buscarían para matarlos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "88ff6622-fc8b-4ead-9d82-5cd0dbfe7ad8"
+    },
+    {
+      "start_time": 110580,
+      "end_time": 113280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Igual decisión se ha tomado con los prisioneros hechos en la Guacamaya. Serán dejados en libertad en las próximas 72 horas. Son ellos el subsargento Manuel Antonio Rosales de 25 años. El soldado Gerber Francisco Lemus Castillo de 18 años. El soldado Gilberto Morales Barrera de 18 años. El soldado Nelson Ernesto Orellana de 25 años. El soldado Alberto Martínez Villalta de 15 años de edad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b1208576-a671-4739-86e0-a00574e0db77"
+    },
+    {
+      "start_time": 113340,
+      "end_time": 114480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comunicamos que dos prisioneros heridos murieron por la gravedad de sus heridas. Los nombres de ellos se ignoran ya que carecían de documentos que los identificaran. Murieron aproximadamente una hora después de su captura."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "8719ec91-4242-4dc1-a6bd-2b0ec4a2cc9e"
+    },
+    {
+      "start_time": 114540,
+      "end_time": 117120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aclaramos que esta vez no hemos recibido respuesta alguna de la Cruz Roja Internacional en torno a este caso. Tampoco se ha hecho presente para reconocer a las víctimas de la masacre y a una multitud de pobladores aterrorizados que se encuentran concentrados en el caserío Llano Alegre con el temor de que sean asesinados por tropas genocidas de la Junta Militar Democristiana que propalan rumores de una nueva ofensiva contra la población de Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        },
+        {
+          "tag": "Morazán",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "f1e65299-1cd9-4038-87c4-de9ce5388418"
+    },
+    {
+      "start_time": 117180,
+      "end_time": 118440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hacemos un llamado a la Cruz Roja Internacional, a todos los organismos humanitarios a quienes compete, así como a la prensa internacional a mantenerse pendientes y atentos por la suerte de estos soldados y de sus familiares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3dde4e97-48fe-4fb8-965f-ebf1cc3ae944"
+    },
+    {
+      "start_time": 118500,
+      "end_time": 120240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También reiteramos a los familiares del teniente José León Delgado Escobar, así como a los familiares de los 17 soldados muertos en combate en la Guacamaya a que a través de la Cruz Roja Internacional puedan exhumar los cadáveres para su reconocimiento y traslado donde consideren conveniente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "340fc14d-cf7e-41e0-9b2a-5fd3ab1b17e4"
+    },
+    {
+      "start_time": 120300,
+      "end_time": 122640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También reiteramos nuevamente el llamado a la Cruz Roja Internacional, a la Comisión de Derechos Humanos de la Organización de Estados Americanos, a la Comisión de Derechos Humanos de las Naciones Unidas y a la prensa internacional a que constaten el genocidio impune a más de 900 salvadoreños en las poblaciones de Cerro Pando, Agua Fría, Poza Honda, Los Toriles, El Mozote y otros en el departamento de Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b21892ca-9e68-46b0-8bf1-33dbd56ab8a6"
+    },
+    {
+      "start_time": 122700,
+      "end_time": 124680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pedimos a estos organismos y entidades que sean los ojos de la conciencia mundial para que no sean pisoteados de manera tan desfachatada los derechos de todo un pueblo y que se caracterice pomposamente como tácticas utilizadas en Vietnam o asesoría militar a lo que es un descarado apoyo y respaldo a un crimen masivo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "33243726-475f-44e3-ae83-dd2ce16eca95"
+    },
+    {
+      "start_time": 124740,
+      "end_time": 127500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando un Gobierno no tiene más política que el genocidio y más sostén que un aparato militar y la injerencia extranjera, no queda más alternativa que la lucha con las armas en la mano a la par de este pueblo heroico y la búsqueda de la unidad de esfuerzos con todos los sectores conscientes y democráticos del país para lograr la instauración de un régimen de libertades democráticas verdaderas e iniciar un proceso de construcción económica y de estabilización social y política."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "7f6f0490-b8a0-434b-922b-d65f33c39a8d"
+    },
+    {
+      "start_time": 127560,
+      "end_time": 129300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ese es nuestro grito a la conciencia de todos los pueblos del mundo. Ese es nuestro grito a que salgan las manos intervencionistas de nuestro país. Esa es nuestra reiteración del llamado a los organismos y entidades humanitarias a constatar esta cruda realidad de genocidio como política de la Junta Democratacristiana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "696ef92e-4564-4559-aa2a-2ad2b750dc8e"
+    },
+    {
+      "start_time": 129360,
+      "end_time": 130860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reiteramos nuevamente a nuestro pueblo la profunda decisión de luchar indeclinables hasta vencer, visualizando 1982 como el año de las grandes victorias democráticas y populares. Unidos para combatir hasta la victoria final, revolución o muerte, venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "ddbcf361-2f60-4b17-9252-1106a65751da"
+    },
+    {
+      "start_time": 130920,
+      "end_time": 132960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por la comandancia político-militar del Frente Oriental Francisco Sánchez, zona norte. Comandante Jorge Meléndez, \"Jonás\", responsable político militar de la comandancia general. Comandante Heleno Castro, \"Carmelo\", jefe de personal. Comándate Bruno Caballero, \"Quincho\", jefe de logística. Comandante Santos Lino Caballero, \"Melo\". Comandante William Pascasio primer jefe de operaciones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3c29c615-b0e8-4322-a775-2d86fecc454a"
+    },
+    {
+      "start_time": 133020,
+      "end_time": 134820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comandante Silvio de Jesús Argueta, \"Licho\", jefe de operaciones. Compañero José Leoncio Pichinte responsable político del frente nororiental y responsable político de Venceremos. Aprobado también por el comandante Juan Ramón Medrano, \"Balta\". Morazán, 31 de diciembre de 1981."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        },
+        {
+          "tag": "Morazán",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "8728cbac-b11a-4c90-82df-4beb153e503e"
+    },
+    {
+      "start_time": 134880,
+      "end_time": 136740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hacemos un llamado a nuestros oyentes de Radio Venceremos para que sintonicen la señal de libertad del Frente Farabundo Martí para la Liberación Nacional en esta misma frecuencia esta noche a las 10:00 PM cuando trasmitiremos una misa oficiada por nuestro compañero y sacerdote Rogelio Ponseele. Misa ofrecida en honor a los héroes y mártires caídos por la liberación nacional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        },
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "841533aa-f1a6-4b54-86f3-f2ac6262ca9b"
+    },
+    {
+      "start_time": 136800,
+      "end_time": 137460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde el hondo crisol de la patria\nse levanta el clamor popular;\nya se anuncia la nueva alborada,\ntodo Chile comienza a cantar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "2b1803f4-2e69-44ca-960e-058748aa8193"
+    },
+    {
+      "start_time": 137520,
+      "end_time": 138300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con la plena convicción a la victoria popular, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional llega al final de esta emisión de esta hora."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "eadcbec7-d965-4514-a297-4dc5580e6775"
+    },
+    {
+      "start_time": 138360,
+      "end_time": 138480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…enfrentemos primero a la muerte…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "d72eeacf-8169-4e21-9ea0-3da0d44a370b"
+    },
+    {
+      "start_time": 138540,
+      "end_time": 140640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recordamos que esta noche a las 10:00 PM, Radio Venceremos transmitirá una misa en homenaje a los mártires y héroes caídos por la revolución salvadoreña. Repetimos, Radio Venceremos esta noche a las 10:00 PM transmitirá una misa dedicada a los héroes y mártires caídos por la revolución salvadoreña. Esta noche a las 10:00 PM en Radio Venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1a2539ce-2e08-42eb-9716-cac31283f1fb"
+    },
+    {
+      "start_time": 140700,
+      "end_time": 141000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…Campesinos, soldados y obreros,\nla mujer de la patria también…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "ffe20ca0-585d-4c1e-a530-cf3113bbac8e"
+    },
+    {
+      "start_time": 141060,
+      "end_time": 143100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Expresión del poder popular sobre territorios controlados en el departamento de Morazán, Radio Venceremos transmite todos los días de las seis a las siete de la ma˜ñana y de seis a siete de la tarde a través de la frecuencia internacional de los 40 metros, siete megahercios. Hemos transmitido este 31 de diciembre desde el Salvador, Centroamérica, territorio en combate contra la opresión y el imperialismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e642e12b-8d0b-4de8-801a-b35f1bb58200"
+    },
+    {
+      "start_time": 143160,
+      "end_time": 143640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Venceremos,\nVenceremos.\nLa miseria sabremos vencer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "4e5d3823-d2c1-419b-8735-56432aff60e0"
+    },
+    {
+      "start_time": 143700,
+      "end_time": 143820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En 1982--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "24936ee5-58ec-4ab5-bed8-d324c2b46483"
+    },
+    {
+      "start_time": 143880,
+      "end_time": 144060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidos para Combatir hasta la victoria final."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1c912335-6ebc-4674-9cbf-8a7c26c7f47c"
+    },
+    {
+      "start_time": 144120,
+      "end_time": 144240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Revolución o muerte, venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3cddcf5d-bdd1-4471-ae1c-96b40d326fec"
+    },
+    {
+      "start_time": 144240,
+      "end_time": 144300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Venceremos!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "5553d24a-8da9-497a-9c0b-842ac753beb1"
+    },
+    {
+      "start_time": 144300,
+      "end_time": 144660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Venceremos,\nLa miseria sabremos vencer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "6de7132c-a8e0-4958-82eb-fab625434c52"
+    }
+  ],
   "set": "Default",
   "event_id": "50f5e3df-3123-4810-9ffa-33f61d16d1e5",
   "source_id": "6c1ac2d6-3775-4bcd-980b-578d5fb2816c"
