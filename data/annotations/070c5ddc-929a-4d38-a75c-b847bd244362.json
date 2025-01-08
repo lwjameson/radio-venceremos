@@ -1,5 +1,594 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Ametralladora)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Efectos de Sonido",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "091523d3-200d-4b76-b21e-83a2685eed86"
+    },
+    {
+      "start_time": 37,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salud, compañeros del Frente Paracentral Anastasio Aquino, Radio Venceremos rompiendo cercos. Más información."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        },
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "fdd62656-019c-4fd3-b4fd-37e9c084934c"
+    },
+    {
+      "start_time": 37,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SUCA exige libertad de refugiados salvadoreños detenidos en Honduras. El Consejo Superior Universitario Centroamericano hizo un llamado a las autoridades hondureñas para que respeten la vida e integridad de los refugiados salvadoreños detenidos y exigió su inmediata libertad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Desaparecidos",
+          "category": "Tema"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d871aee9-8a50-4908-8fc4-b8dcc3c1b29f"
+    },
+    {
+      "start_time": 64,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así mismo, a la preocupación de la Universidad Autónoma de Honduras, ante la detención y desaparición de 14 refugiados salvadoreños en Tegucigalpa, entre los que se encuentran estudiantes universitarios y cuatro niños. Agrega el comunicado que el hecho se ha admitido inicialmente por las autoridades hondureñas y negados por varios puestos del ejército hondureño, lo cual aumenta la preocupación por la seguridad personal de estos compatriotas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        },
+        {
+          "tag": "Honduras",
+          "category": "Tema"
+        },
+        {
+          "tag": "Desaparecidos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a55b4223-6686-4a12-b118-0c494e271bfe"
+    },
+    {
+      "start_time": 103,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A la hora de empuñar el fusil para conquistar la paz más información. Más informes sobre la descomposición de las fuerzas armadas genocidas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d5922aa1-6ec0-4e92-8407-6015bc32bd91"
+    },
+    {
+      "start_time": 115,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La semana pasada en la población de Corinto en Morazán se produjo un enfrentamiento entre guardias nacionales contra los patrulleros paramilitares, resultando heridos dos agentes de la guardia nacional. Posteriormente llegó un helicóptero y desarmaron a todos los paramilitares y se llevaron las armas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        },
+        {
+          "tag": "Morazán",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "c4277eac-64f6-44ea-80d3-e092d086afe0"
+    },
+    {
+      "start_time": 138,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hemos recibido informes que en la pista aérea de la ciudad de Gotera, cabecera departamental de Morazán, una noche de la semana pasada se registró un enfrentamiento entre soldados y oficiales pertenecientes al cuartel de contrainsurgencia que dejó como saldo un oficial muerto y varios soldados gravemente heridos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        },
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        },
+        {
+          "tag": "Morazán",
+          "category": "Lugar"
+        }
+      ],
+      "uuid": "5237084f-91d0-468d-86cc-49716537ba9e"
+    },
+    {
+      "start_time": 162,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ante los comentarios de la población quisieron ocultar sus fuertes contradicciones afirmando que habían sido atacados por más de 200 guerrilleros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b0ca97bc-ff68-474a-bcc9-85b82304cc77"
+    },
+    {
+      "start_time": 175,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Más información, Radio Venceremos rompiendo cercos informativos de la dictadura."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "39151d05-da35-487c-abc4-78e4fc2c9ca6"
+    },
+    {
+      "start_time": 183,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Duarte, un hombre de paja, afirma expresidente de Venezuela. El expresidente venezolano Carlos Andrés Pérez, declaró en Caracas que los imperialistas norteamericanos afirman engañosamente, que en América Latina lo que existe es una lucha entre comunismo y anticomunismo, y consideran a los militares más reaccionarios como la mejor garantía de sus intereses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Venezuela",
+          "category": "Tema"
+        },
+        {
+          "tag": "Carlos Andrés Pérez",
+          "category": "Persona"
+        }
+      ],
+      "uuid": "60e03854-9fc7-4e87-bef3-a57c941b8108"
+    },
+    {
+      "start_time": 217,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El exmandatario afirmó que el problema en América Latina no es el comunismo, sino el respeto a los derechos humanos. Así mismo dijo que al identificarse la línea política de Venezuela con la nueva política del gobierno de los Estados Unidos, el país suramericano está cayendo en una grave confusión."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Venezuela",
+          "category": "Tema"
+        },
+        {
+          "tag": "EEUU",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1b910677-9871-4702-a9e9-5fde0a03333b"
+    },
+    {
+      "start_time": 242,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En lo que se tiene como un ataque contra la política exterior de Herrera Campíns, que apoya a la junta genocida de El Salvador, señaló que en El Salvador lo que hay es un gobierno militar retrógrado, genocida, reaccionario, que tiene como mampara a un hombre de paja, refiriéndose a Duarte. Aunque la realidad es que en El Salvador gobiernan los militares que torturan y violan los derechos humanos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Venezuela",
+          "category": "Tema"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Derechos humanos"
+        },
+        {
+          "tag": "Tortura",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d5068ac6-d3f5-45e7-9a9d-c6f79423158c"
+    },
+    {
+      "start_time": 277,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hasta aquí Plomo Informativo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plomo Informativo",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b21c8971-9167-4563-96ad-46ca11210393"
+    },
+    {
+      "start_time": 280,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ametralladora"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Efectos de Sonido",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "651763c8-38c4-4a30-90e0-8bb8d98f5975"
+    },
+    {
+      "start_time": 293,
+      "end_time": 309,
+      "annotation": [
+        {
+          "text": "…venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil cadenas habrá que romper.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la miseria sabremos vencer.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "04391111-6866-4707-9984-474b42e169b4"
+    },
+    {
+      "start_time": 309,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De esta manera Radio Venceremos, voz oficial del Frente para Farabundo Martí para la Liberación Nacional llega al final de sus emisiones de esta hora. Radio Venceremos todos los días en el aire, de 6:00 AM a 7:00 AM y de 6:00 PM a 7:00 PM. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e998ac58-dbc8-4116-a873-d5a05536ee56"
+    },
+    {
+      "start_time": 340,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidos para combatir hasta la victoria final, revolución o muerte, venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "59ee10cf-64f2-4075-b38b-9be8e37c5577"
+    },
+    {
+      "start_time": 349,
+      "end_time": 395,
+      "annotation": [
+        {
+          "text": "Todos juntos seremos la historia ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " a cumplir, a cumplir, a cumplir.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil cadenas habrá que romper.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la miseria sabremos vencer.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " mil cadenas habrá que romper.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " Venceremos, venceremos, ",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "text": " la miseria sabremos vencer.",
+          "italic": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": "",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "56ee94ac-72df-41f5-8e88-c78f3e4eea7d"
+    }
+  ],
   "set": "Default",
   "event_id": "cb2b1569-75f6-4596-874f-b41d89362aa8",
   "source_id": "810f7a21-4c39-4ccb-8dd8-82b33314ce32"
