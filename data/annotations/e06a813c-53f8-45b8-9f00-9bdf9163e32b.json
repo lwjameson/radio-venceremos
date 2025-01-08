@@ -1,5 +1,711 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 62,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…will never be defeated! The people united, will never be defeated! The people united…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "36265a8e-ed80-426e-b54f-8a9093e24cc3"
+    },
+    {
+      "start_time": 70,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Plomo Informativo, the news of our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Informational Lead",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7bb87fc6-49e4-40dc-ac3b-a7c71ba5fdcd"
+    },
+    {
+      "start_time": 77,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The exploitation and death of workers from the San Sebastián Central Minery. A report has reached the official voice of the Farabundo Martí National Liberation Front, the radio of Salvadoran people, and the news comes from the city of Santa Rosa de Lima, in the department of La Unión. The report expresses that two mine workers were captured because they were reported to the National Guard by the sycophantic administrative manager Cristobal Bonilla, Francisco Torres Menjibar, mine superintendent, along with Manuel Reyes and Rolando Saravia all of the San Sebastián Central Minery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Informational Lead",
+          "category": "Topic"
+        },
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f60e4172-13de-4283-85f0-b512d2c64bf9"
+    },
+    {
+      "start_time": 122,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the two captured workers managed to escape from the guard, while the other worker, after being cruelly tortured, was assassinated. Several days ago other workers were assassinated by order of the sycophants already mentioned. The names of the assassinated workers are Donato Salvador, Leonardo Blando, and Carmen Fuentes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Informational Lead",
+          "category": "Topic"
+        },
+        {
+          "tag": "Torture",
+          "category": "Topic"
+        },
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2dbfa39e-7ae6-40ef-ad53-b370f562ab83"
+    },
+    {
+      "start_time": 147,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The message also reports that the San Sebastián Mine exploiters have held worker salaries for several weeks. They laid off twenty workers several days ago without giving them the compensation due to them according to SVC 28.165, despite the multi-million profits from the sale of gold extracted from the wealthy mining exploitation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Informational Lead",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b110e32b-9a1d-4a17-a126-a7a11ace6e8e"
+    },
+    {
+      "start_time": 179,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fellow workers, students, teachers, employees, military, compatriots, women in the marketplaces, residents of boroughs and slums, peasants, and employees. Radio Venceremos opens its microphones to reports of labor problems. Reports of your community, of the repressive actions of the dictatorship, and every type of information that you consider important for our people in this struggle. All information should go to Radio Venceremos through the Commission of the Press of Farabundo Martí National Liberation Front or any other channel of the revolutionary organizations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "101517e1-b2d0-4702-a5bf-7049038a69fc"
+    },
+    {
+      "start_time": 233,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More information, at the hour of joining our popular heroic militias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "97cbaecb-3f17-4da4-aa2f-8305141c0d06"
+    },
+    {
+      "start_time": 240,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The evident wear that the people’s forces are producing day to day on the genocidal army’s ranks can no longer be hidden from the genocidal leadership. The government’s Junta has acknowledged to the press, through the official spokesman of the armed forces, that they suffered 20 casualties in the last 24 hours."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casualties",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "37f8c2d0-71d1-48dc-851a-140605fd55f0"
+    },
+    {
+      "start_time": 270,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Likewise, the dictatorship declared that in the last days close to 2,000 combatants of the FMLN constructed fortifications on Cerro Eramón, Chalatenango, a few kilometers from Cerrón Grande’s hydroelectric damn and the Cinco de Noviembre damn, the most important ones in the country. Additionally, the dictatorship has announced the preparation of an offensive against the combatants camping out on Cerro Eramón."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "af90c76c-f77f-40f3-a257-19f38b5ac0f7"
+    },
+    {
+      "start_time": 312,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, several hundred residents have been forced to abandon that region and to find refuge in the town of Ilobasco due to threats by the genocidal troop, which stated that they will give death to any that remain in the area.  In the next broadcast, Radio Venceremos will give an important report on the victorious advance of our people on the four fronts of the war. Up until this moment, Radio Venceremos presented Plomo Informativo, breaking the information siege of the fascist junta."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "15aff82b-bff5-4c6d-9309-307c217dcf7a"
+    },
+    {
+      "start_time": 361,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will give our lives for the fatherland, We will fight to see her liberated. Peace in this land we will sow, Working day by day, we will live. Tyrants and assassins wil be no more. Children will play in the streets. The winds of justice will return, And they will blow on our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "edc828be-fb82-4945-be7d-aee61daf36f5"
+    },
+    {
+      "start_time": 399,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the last few days, we’ve read with much surprise in the local newspapers the tone of the declarations made by the Interim archbishop of San Salvador, Monsignor Arturo Rivera y Damas, about the violence that prevails in our country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "88fee875-c4fa-4f15-9770-e7ee54dae5aa"
+    },
+    {
+      "start_time": 420,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We understand that one of the deepest concerns of the church during these historical and conflictive moments is precisely the painful spilling of blood that our country presently suffers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5e820779-b79a-416a-a53c-6ca8c73a914e"
+    },
+    {
+      "start_time": 440,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the same manner, we remember that when Monsignor Rivera y Damas assumed the position of Interim Archbishop of San Salvador, he stated that he would continue the path outlined by our unforgettable Monsignor Oscar Arnulfo Romero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "10ea0cc8-7334-4dbe-a73d-8c16c08542ec"
+    },
+    {
+      "start_time": 460,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we speak of an outlined path, we want to refer to something very clearly, Monsignor Romero’s line does not allow ambiguities. He was very clear and precise. He followed a coherent attitude in relation to the role of that the church much play in situations like the one our people are currently passing. He called injustice, repression, and genocide by name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "191f615c-ee2e-41da-b36c-634a56b06a3e"
+    },
+    {
+      "start_time": 500,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The day before his assassination, Monsignor Romero, in his last Sunday homily, said, “We want the government to take seriously the fact that reforms will not do any good if they’re soaked in blood. In the name of God, in the name of this suffering people, whose lamentations each day reach the sky more loudly. I plead with you, I beg you, I order you to cease the repression.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "0e7f80b9-60b0-4dbe-9d60-caa5ead2f863"
+    },
+    {
+      "start_time": 541,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is no possible confusion. Monsignor Romero directly identified who promote the violence and that is why those promotors of violence assassinated him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7f0f80b3-ac18-4f29-a3e4-441f583de64e"
+    },
+    {
+      "start_time": 560,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is why Archbishop Rivera y Damas’s attitude is exceedingly strange when he states that the repression executed by right-wing extremist groups and by army personnel and the security corps has decreased.  A few minutes ago, we were listening from the lips of survivors of the El Junquillo massacre all the horror, all the horror of the instrumentalized genocide used by the genocidal junta. In the face of the fresh blood from children of the El Junquillo, we ask, “How is it possible to make such a declaration?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5cebf229-78da-4a06-a98c-1c61cb9282db"
+    },
+    {
+      "start_time": 610,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only a few days ago, news agencies stated that on Friday the 22nd of this month, 26 bodies were found outside of San Salvador with obvious signs of torture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ff98e1f2-c154-42d1-b9b5-01ad362b33aa"
+    },
+    {
+      "start_time": 633,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will never know the total number of tortured people or of the forcibly disappeared by the genocidal junta. And regarding the terror that the dictatorship sows in peasant zones, this known throughout the entire world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "0ee618d4-732a-433c-9ae2-fcba3c090a3f"
+    },
+    {
+      "start_time": 656,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. The regime has definitely not made any kind of concessions in its policy of extermination. On the contrary, we can say with utter certainty and with the support of an entire people that the government repression has multiplied by a thousand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "31dfc6b9-3dec-49c8-8f38-33461f98925f"
+    },
+    {
+      "start_time": 684,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Additionally, Monsignor Rivera y Damas also stated that, in his opinion, our forces try to impede the people from recooperating trust to start seeking paths of normalization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8ac8b615-1a54-41a5-adc0-8082053baf7f"
+    },
+    {
+      "start_time": 705,
+      "end_time": 731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We want to believe that these statements were made from naiveté and not from malice. The reality is that the opposite is true and our people know this, and so do the ample democratic and progressive sectors of the entire world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "860f415c-a0f6-43df-a4c8-b9a701d96a7a"
+    },
+    {
+      "start_time": 733,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This misrepresentation is entirely absurd. The FMLN has been at the cutting edge before the concert of voices that demand a political exit to the conflict. In the interest of avoiding further pain and spilling of blood for out people, already afflicted enough, [the FMLN] has accepted and promoted concrete proposals to reach a political exit to the crisis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ee621266-b601-4cdf-a866-3c384a8d74de"
+    },
+    {
+      "start_time": 779,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nonetheless, it’s more than evident that those who hinder our people are already looking for paths of normalization, and they’re precisely those that murder and kidnap members of known legal opposition parties while also demogogically talking about elections. As is in the cases of Eleuterio Cárcamo and Margarita Gastiasoro. Both of them were leaders in the Social Democratic Party, National Revolutionary Movement, MNR."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "c88a1244-80d4-4b8e-afbd-62acf9bfd642"
+    },
+    {
+      "start_time": 830,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the case of Dr. Guillermo Manuel Ungo, president of this same party, that incredibly has been accused by the terrorist regime, having mentioned him along with other politically renown personalities in a famous list published by the armed forces and other media."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "4af1ec1d-6d03-4829-9e91-dbc7ed996f3e"
+    },
+    {
+      "start_time": 863,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a fact that all the statements formulated by Monseñor Rivera y Damas separate the Church from a neutral position because they are partisan and very dangerous. The only thing that these statements result in is support and they, to a certain extent, justify the criminal actions agains our people that paramilitary groups and members of the security forces and of the army carry out on a daily basis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e5dd71fb-68fc-4af4-b121-aa2c6fac4738"
+    },
+    {
+      "start_time": 910,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are certai that these types of attitudes do not contribute to achieve a favorable climate for a political exit to the present crisis. At the same time, they distance the church from the possibility of playing an important role in the mediation process."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ac989c1f-2cb8-4445-8830-e25b94ceff93"
+    },
+    {
+      "start_time": 938,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Socialism will be our future. All together, we will be history's completion. To fulfill, to fulfill, to fulfill   We will prevail, we will prevail A thousand chains we'll have to break, We will prevail, we will prevail We will know how to overcome misery!  We will prevail, We will prevail…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "95af322a-48dd-4b1a-97d6-28affb2d786a"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "United to fight until final victory! Revolution or death! We will prevail!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "69f0cf1e-19d8-4c06-bb03-eae1c8152874"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peasants, soldiers, miners, And the women of our country, as well, Students, workers, white-collar and blue, We will fulfill our duty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "42add600-200e-4d64-b356-1246899a3935"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With a revolutionary greeting to the Salvadoran working class, Radio Venceremos, official voice of the Farabundo Marti National Liberation Front, ends this hour’s transmission.  We remind you that Radio Venceremos transmits every day from 6:00 to 7:00 in the morning and 6:00 to 7:00 in the evening. Radio Venceremos, expression over popular power over territories controlled by our people in arms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos FMLN"
+        }
+      ],
+      "uuid": "088e866f-af25-40bf-9037-fb3d3790046b"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All together, we will be history's completion. To fulfill, to fulfill, to fulfill  We will prevail, we will prevail! A thousand chains we'll have to break, We will prevail, we will prevail! We will know how to overcome misery! We will prevail, we will prevail! A thousand chains we'll have to break…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "a2d11d89-5e2e-4f76-97af-eedcdae4dca7"
+    }
+  ],
   "event_id": "3ed6b458-d999-488d-b5af-2c3a7494c9cf",
   "set": "English Annotations",
   "source_id": "0c23b848-e9d0-4e3b-95e3-bc83da42d9ce"
