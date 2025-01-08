@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "0c23b848-e9d0-4e3b-95e3-bc83da42d9ce": {
+      "label": "26 de Mayo, 1981 - PM",
+      "is_offline": false,
+      "file_url": "https://ia802203.us.archive.org/1/items/19810526-b/19810524B.mp3",
+      "duration": 2812
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "26 de Mayo, 1981 - PM",
+  "created_at": "2025-01-08T18:42:13.530Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-01-08T18:42:13.530Z",
+  "updated_by": "jackDeVry"
+}

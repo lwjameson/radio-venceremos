@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c2223872-acd3-4b4c-8926-5f375171243f": {
+      "label": "27 de Mayo, 1981 - AM",
+      "is_offline": false,
+      "file_url": "https://dn720307.ca.archive.org/0/items/19810520-a/19810520A.mp3",
+      "duration": 2712
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "27 de Mayo, 1981 - AM",
+  "created_at": "2025-01-08T18:42:13.530Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-01-08T18:42:13.530Z",
+  "updated_by": "jackDeVry"
+}

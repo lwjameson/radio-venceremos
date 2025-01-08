@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6c1ac2d6-3775-4bcd-980b-578d5fb2816c": {
+      "label": "31 de Diciembre, 1981",
+      "is_offline": false,
+      "file_url": "https://ia600404.us.archive.org/6/items/19811231-pm/19811231PM.mp3",
+      "duration": 2426
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "31 de Diciembre, 1981 - PM",
+  "created_at": "2025-01-08T18:42:13.530Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-01-08T18:42:13.530Z",
+  "updated_by": "jackDeVry"
+}
