@@ -1,5 +1,1686 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will report on this with more details in the next few hours. The executive commands of the attack on the enemy in La Guacamaya and El Mozote are the following, general command, fellow commander Silvio de Jesús Argueta, \"Licho\". Commands of the different attack directions, comrades Commander Bracamonte, El Mozote and Arambala, Commander Gallo, Cerro los Márquez, Cerro Guadalupe, Commander Ángel, foot of Cerro Redondo and La Guacamaya school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "acb1269c-a9e4-4917-86a0-fd4fabce2cbf"
+    },
+    {
+      "start_time": 44,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other notable commanders are the platoon commanders, companion Freddy, companions Sánchez and the companions of the commando and sniper section and the machine gunner squad. On the other hand, the raid on enemy positions in the city of San Miguel was led by fellow commander Faustino and the raid on Usulután by fellow commander Chungo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b72ab3e9-d0d7-4beb-9c4b-7d1b070f4430"
+    },
+    {
+      "start_time": 79,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In command of the ambush to contain the San Francisco Gotera reinforcements was fellow zone chief and commander Javier. To these leaders, to the leaders of the attacks, to all the populations and to all our heroic combatants, our public recognition of their bravery and selflessness for the cause of our people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Enfrentamiento",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "c392226a-d5de-417b-8db6-10dfa9ada521"
+    },
+    {
+      "start_time": 107,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We always maintain our determination to win and our deep conviction that the heroic struggle of our people will culminate in the expulsion of dictatorships and murderers from our homeland."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "fb9c4c59-492d-4409-a072-c68892f1a389"
+    },
+    {
+      "start_time": 127,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We reiterate our confidence in a combination of efforts with all the democratic sectors of the country to find a political solution to the Salvadoran crisis that directs our process towards the consolidation of a democratic solution, an indispensable condition for the development of our economy, our society and the strength of our legal-political system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "7eb1dcad-2aa4-47b8-8933-912ca618c89f"
+    },
+    {
+      "start_time": 163,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We take advantage of this end-of-year date to greet all our fellow militants of the Farabundo Martí National Liberation Front in the different tasks, both on the war fronts and in the battles on the foreign front in solidarity and diplomatic struggle, and to our colleagues militants fighting in prisons on the fifth front of the war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d90e5309-eb14-4b47-a2f3-8934e2e412ae"
+    },
+    {
+      "start_time": 197,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We salute our heroic people, certain that 1982 is the year that will vindicate with a popular victory the blood shed by more than 30,000 Salvadorans. United to fight until final victory, revolution or death, we will win. For the political-military command of the Eastern Front Francisco Sánchez, commander Jorge Meléndez, \"Jonás\", commander Juan Ramón Medrano, \"Balta\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reporte",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "8e141df6-6b59-4984-bff6-a7de5be264bb"
+    },
+    {
+      "start_time": 241,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…brothers united to fight\nlet's advance to the revolution\nLet's build a future of progress and dignity.\nRevolution or death we will win\nFarabundo Martí inspired us\nand today he reappears victorious on our front\nthe red and white flag will protect us\nand a star will show us the path."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "d3b44bb4-3337-443a-90fe-f9272de95b97"
+    },
+    {
+      "start_time": 272,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We remind our listeners that today, December 31, Radio Venceremos, official voice of the Farabundo Martí National Liberation Front, will broadcast a special broadcast at 10:00 PM on the same frequency as our usual broadcasts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "db26a9c5-2950-4b9a-baa1-611fea851a04"
+    },
+    {
+      "start_time": 294,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The companion and priest Rogelio Ponseele will officiate an end-of-year mass in memory of the Salvadoran heroes and martyrs who fell in the fight to achieve peace, democracy and a Government of broad participation. We repeat, tonight at 10:00 PM Radio Venceremos on the usual frequency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "30eb28a5-40d0-41f0-842b-f0dbcf630292"
+    },
+    {
+      "start_time": 320,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, Radio Venceremos, official voice of the Farabundo Martí National Liberation Front, presents comrade José Leoncio Pichinte, political leader of Radio Venceremos and member of the political-military command of the Eastern Front Francisco Sánchez northern zone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b33514eb-173a-47f1-806d-387c9e844472"
+    },
+    {
+      "start_time": 345,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are only a few hours left until the end of this year. A year in which our people, deploying great sacrifices and efforts, have strengthened and consolidated both their democratic revolutionary forces and their instruments that are leading them to definitive victory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "3cca9d4f-c918-4fef-acdb-5543690b259e"
+    },
+    {
+      "start_time": 368,
+      "end_time": 410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On this occasion when our love for peace and true democracy is revived in our people. As a member of the political-military command of the northern zone of the Eastern Front, Francisco Sánchez and as the political leader of Radio Venceremos, I send a revolutionary and fraternal greeting to all the members of the National Revolutionary Movement, MNR, the Popular Social Christian Movement, MPSC, and the Independent Movement of Professionals and Technicians of El Salvador, MIPTES."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "2948c968-a638-4efd-aa1f-c84e22a947f9"
+    },
+    {
+      "start_time": 411,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To all the members of the Revolutionary Mass Coordinator, CRM. To all the collaborators and sympathizers of the Revolutionary Democratic Front and the Farabundo Martí National Liberation Front and to all our people in general."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "2235e34a-039d-4451-801f-4a0cd20a7f76"
+    },
+    {
+      "start_time": 430,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This occasion is opportune for me to present before you a report about Radio Venceremos, official voice of the Farabundo Martí National Liberation Front, with the objective of locating why the role it has played in the advancement of the struggle of our people arises, what it means at the present time and about its place of transmission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "d041e214-8351-45e8-ad50-4658a1d2d385"
+    },
+    {
+      "start_time": 461,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Salvadoran people have been fighting for many years to end the repression, hunger, misery, oppression and backwardness to which the fascist high command of the Armed Forces, the oligarchy and North American imperialism have subjected them, to conquer their democratic freedoms and have their fundamental rights respected."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "5ecb01ce-6fc9-4cb3-85f6-01d09b02b72f"
+    },
+    {
+      "start_time": 491,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Freedoms and rights that we currently seek to achieve through a Government that is the result of the confluence of all the democratic and progressive forces that seek to build peace and reconstruction for El Salvador. Within this historical framework, the fight for freedom of expression of thought carried out by the democratic and progressive forces, sectors and the revolutionary forces of Salvadoran society has stood out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "745d84fc-83b7-498a-a2b5-cf51d537b5dd"
+    },
+    {
+      "start_time": 527,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have reached a time when the dictatorship in our country ends freedom of expression, journalists are captured, disappeared and murdered. The town's chronicle is closed. The newspaper El Independiente is closed. The YSAX was stupidly dynamited. The voice of the voiceless, Monsignor Romero, is murdered. Even foreign journalists stationed in the country are persecuted, captured and even murdered."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "ff637a9a-b059-4929-aceb-3b1a662a2d6b"
+    },
+    {
+      "start_time": 564,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is in this context that the Salvadoran people, with sacrifice, enormous efforts and with their creativity, are creating their own media and methods of popular expression. Guided now on the basis of military political power, Radio Venceremos emerged on January 10 of this year, accompanying the general offensive launched by the people led by the Farabundo Martí National Liberation Front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "e1aa124f-20ea-4e92-987a-bda134b2b0a5"
+    },
+    {
+      "start_time": 602,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos is the result of long years of struggle by our people and their progressive and revolutionary democratic forces, which is why it is the genuine expression of popular power. Therefore, it is a people's radio. And disseminate all those ideas, thoughts and positions that truly seek peace, democracy and well-being for all Salvadorans. It therefore disseminates any approach that seeks to advance Salvadoran society towards progress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "8e1ecae9-344c-4bc4-8044-24df6d5d9570"
+    },
+    {
+      "start_time": 648,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, as an expression of popular power, has played and will continue to play an invaluable role in the advancement of the struggle that the entire people heroically wage to end half a century of military dictatorships."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "86d44971-ee4a-435a-a8f2-e995931de607"
+    },
+    {
+      "start_time": 668,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Radio Venceremos, like the popular masses, displaying great sacrifices and efforts, creativity and initiative, has kept the brave and heroic Salvadoran people informed and educated. It has informed the other peoples of the world. He has fought the disinformation launched by Yankee imperialism and the Christian Democratic military dictatorship. He has been able to highlight the development of popular power and has guided the great popular masses in their struggle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "033b52c0-0774-47be-bc6d-cca31d248e22"
+    },
+    {
+      "start_time": 710,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the current conditions of the development of our war, Radio Venceremos also largely fills the insufficiency of written propaganda of the democratic, progressive and revolutionary forces of our country. The existence of Radio Venceremos in the department of Morazán clearly expresses the inevitability of the triumph of the Salvadoran people and the indestructibility of the Farabundo Martí National Liberation Front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "c10ac6ef-5687-42e0-b488-0be1e759b1af"
+    },
+    {
+      "start_time": 747,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The psychopath Colonel García has reported several times that he has destroyed Radio Venceremos and it has always been false. Radio Venceremos has always broadcast. The same thing just happened, they launched a genocidal operation that sought to destroy the radio station. We already knew about this operation and its intentions before, we made it known and we prepared to defeat it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "080472f3-f90b-490b-a8c1-359f17e1beec"
+    },
+    {
+      "start_time": 779,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thus, days before, Radio Venceremos reduced the transmission time to 15 and 20 minutes, we were getting ready to enter the war of movements. García, after we did not go on air, pompously claimed to have destroyed us and captured the personnel, thereby attempting to demoralize our brave people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "63528ac9-c8de-44c3-92c6-50e5ef9b2801"
+    },
+    {
+      "start_time": 809,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What has happened? Afterwards, Radio Venceremos continues broadcasting and with the same staff from the department of Morazán, whether Colonel García and the genocidal Christian Democrat military junta like it or not. Radio Venceremos broadcasts from the department of Morazán, not from Nicaragua as this man tries to make you believe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "b769d36d-fe8d-4643-8004-b7b6766ac0d7"
+    },
+    {
+      "start_time": 840,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This accusation is rather a way of evading the fact that the revolutionary forces have strengthened and consolidated a rearguard and power in El Salvador. Not being able to destroy it, trying to kill his dog in time, he declares that what is in Morazán is a repeater and that the transmitter is in Nicaragua and that he cannot go there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "c6960fd0-35c2-4a76-b056-fb682c7ec530"
+    },
+    {
+      "start_time": 872,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pain that Radio Venceremos causes him is so much that he becomes desperate and can no longer even lie. If Radio Venceremos were in Nicaragua there was no reason why it would stop broadcasting at the time of the fighting. On the contrary, we would have come out with better programs and greater technical quality given the conditions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "d7a11769-c129-42d2-8036-db9cd9df6feb"
+    },
+    {
+      "start_time": 901,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, consider that the voice of Nicaragua is heard in El Salvador and without having a repeater here, we could have done the same thing. That is to say, from a technical point of view this man cannot deceive anyone, nor can he from the point of view of the political principles of the Farabundo Martí National Liberation Front and the Revolutionary Democratic Front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "6fe22732-af0c-4783-9bb9-8259ff97eea6"
+    },
+    {
+      "start_time": 931,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We as democratic revolutionaries have principles, we respect the territorial sovereignty of other peoples, we are not like the psychopath of García and the junta, without principles, who easily cross over to the territory of Honduras to fight against our forces, thus violating the sovereignty of that brother town. We are not like the Cuban worms who have calmly set up a radio station in North American territory, we have political principles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "c3dc735e-b966-493d-b8dc-a177d6af637e"
+    },
+    {
+      "start_time": 970,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this sense, Radio Venceremos is a radio station within the Salvadoran territory in the department of Morazán. It is a radio station at war, otherwise it would not be Radio Veneremos. It is located in territories controlled by our forces. It is a valuable achievement of our people raised in arms. The truth of the matter is that they want to hide the fact that Radio Venceremos exists and that the army knows where it is and cannot destroy it. It is proof of how close victory is for the Salvadoran people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "e8d6ca04-ab88-4573-a83d-8674653d0ceb"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, I want to reiterate that we are today more than ever with the unwavering decision to continue with even greater effort fulfilling the tasks and missions entrusted by our general command and with the needs of the struggle of our people, thus breaking the fascist and imperialist information siege. , educating our people, guiding the great masses of people who are increasingly getting closer to the defeat of the Christian Democratic military dictatorship and informing the rest of the people of the world. Revolution or death, we will win."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pichinte"
+        }
+      ],
+      "uuid": "37458f61-dcab-48c3-a1a6-f564c2080f59"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An ear of wheat is given in each hand.\nIn each fist the final victory.\nFor peace, unity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "31ac2e2b-5a1a-4569-939a-8183d0e47613"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, Radio Venceremos presents the new year message of the Farabundo Martí Front for the National Liberation of the Salvadoran people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "52070e19-ff96-4e52-90b1-9f3faf722772"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Freedom.\nUnit.\nFreedom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "9ba2e219-5da7-493f-a883-0e789fa46096"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This New Year's message from the Farabundo Martí National Liberation Front to the Salvadoran people comes at a time when the development of the war points to a horizon of optimism and hope to achieve the popular objective of conquering democracy, social justice and peace."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "66ae8ff7-0e58-4122-bf8a-6002efbee4e0"
+    },
+    {
+      "start_time": 1128,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The heroic struggle of the people allows us to express confidence that 1982 will be a new year that will bring great victories for our people in their struggle to establish a regime of broad participation and full self-determination of our national destiny."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "eb6017e0-60cb-4f13-afe1-047b4e21f72a"
+    },
+    {
+      "start_time": 1156,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In our recent and last statement we made a balance of the year, a balance favorable to the exemplary struggle of our people and we exposed the successive failures and defeats of the tactics that the Christian Democratic military dictatorship has put into practice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3eec140c-08c2-47a1-b3d3-97ce38165e49"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The year 1982 offers two paths and only one way of solution. On the one hand, a dark tunnel with no exit that only means death and destruction represented by the current Government in clear political, economic and military deterioration, and vainly determined to prolong its agony through the increasing intervention of the Government of the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1cb77aac-5b81-4426-bff3-fb01889e7648"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the other hand, the people's path towards the true solution that includes the aspirations for peace, not only of the broadest national majorities, but of the people of Central America and the entire international community that is concerned and interested in a comprehensive democratic solution. ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4a41055d-0be0-4707-8fde-e84d439dc167"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our military advances also enable our political advances. Our responsibility to the people obliges us to progress in the development of a policy of searching for the best solution that avoids the prolongation of the war and the suffering of the people, the greater and massive intervention of the Government of the United States and the regionalization of the Salvadoran conflict."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "bc49c5db-b691-4bb9-8d05-e1bbe71eb859"
+    },
+    {
+      "start_time": 1296,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our will is committed to this, but it is also firmly determined to continue and advance in the military and political struggle as long as the enemies of peace and the people persist in their war strategy of popular extermination under electoral guise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "78e3f360-2a27-4119-98d2-3b2f25bdd79d"
+    },
+    {
+      "start_time": 1326,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This new year is an opportune occasion for us to reiterate to the Salvadoran people our willingness, interest and will for dialogue, understanding and negotiation to reach a fair political solution with all political, economic and social sectors and groups interested in participating in the common effort. to build a homeland free of oppression, repression and terror in which democratic coexistence prevails and popular interests prevail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "33c2a5ae-412b-459b-89f0-df336ece0656"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nationally and internationally, there is a growing conviction that is based on the reality that without the revolutionary and democratic movement there can be no political solution to the armed conflict."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "25c87603-4fb9-48f5-aaa4-56a1a6e687b9"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 86580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The moral and political strength of the Farabundo Martí National Liberation Front and the Revolutionary Democratic Front encourage us to continue developing their peace offer in 1982, but also to deepen and advance the war if the current genocidal and antidemocratic will persists. Government and its main support the Reagan administration of the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "a160db9e-8c77-40d4-9a7e-c8d39a83947a"
+    },
+    {
+      "start_time": 86640,
+      "end_time": 89040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This force is supported by the firm spirit of our combatants and the vast majority of the people who encourage and support them in various ways. We maintain a consistent position, free of arrogance and exclusive criteria in order to expand and improve the possibilities of searching for a national agreement that leads to a fair and true solution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e10cb1a9-8509-4e65-a62d-c8f58e1ad4cb"
+    },
+    {
+      "start_time": 89100,
+      "end_time": 91500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The general command of the Farabundo Martí National Liberation Front greets this end of the year in a fraternal and revolutionary way to each and every one of the heroic combatants and militants of all the work areas of our organizations who with their effort and commitment have strengthened politically and militarily to our people in this year of great victories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4286854c-6d25-4f08-8d12-a164147db266"
+    },
+    {
+      "start_time": 91560,
+      "end_time": 94920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this end of the year we salute the memory of our heroes and martyrs who during this year gave their lives for the noble cause of justice, peace and democracy. At this end of the year, we salute our imprisoned and missing brothers who, from prison, defeat the dictatorship with the weapons of revolutionary dignity, raising the spirit and courage of the forces of our people. We salute our hard-working, hard-working and heroic people at the end of the year and we commit to continuing to be faithful to their interests."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e99ad01d-4b71-4e84-9300-652625ba98a8"
+    },
+    {
+      "start_time": 94980,
+      "end_time": 98340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this end of the year we salute the democratic sectors of the army of private companies, the church and the political and trade union organizations that yearn for peace and justice. We urge you to find the path to a just solution together and without arrogance. At the end of the year, we salute and thank all the people, governments and political and humanitarian organizations that have provided our people with moral, material and political solidarity of incalculable value."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e340e217-ebec-4258-bebd-2e3105cb870d"
+    },
+    {
+      "start_time": 1640,
+      "end_time": 100200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, we reiterate that we will put all our efforts so that 1982 is the year in which justice and peace triumph in our country by the path that circumstances impose on us. United to fight until final victory, revolution or death, we will win."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "948af0a8-0364-4ae2-97d5-4269104119df"
+    },
+    {
+      "start_time": 100260,
+      "end_time": 101940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fermán Cienfuegos, Salvador Cayetano Carpio, \"Marcial\", Schafik Jorge Hándal, Roberto Roca and Joaquín Villalobos for the general command of the Farabundo Martí National Liberation Front. El Salvador, December 30, 1981."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FMLN",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "42abb4f5-83c8-4052-aaeb-eb9b267f3c4d"
+    },
+    {
+      "start_time": 102000,
+      "end_time": 103440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have heard the end-of-year message sent to the Salvadoran people by the general command of the Farabundo Martí National Liberation Front at the dawn of 1982, the year of the great victories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "9dae0329-a13e-458c-bed4-84e49c31bfd0"
+    },
+    {
+      "start_time": 103440,
+      "end_time": 105660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "War part of the general command of the Francisco Sánchez Eastern Front, northern zone. The general command of the Francisco Sánchez Eastern Front, northern zone, informs the Salvadoran people that all those captured from Perquín and La Guacamaya in August of this year, as well as all those captured on December 29 and 30 of this year in the Macaw has decided to set them free."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "7d69624b-e111-409e-a05b-67099240f4bd"
+    },
+    {
+      "start_time": 105720,
+      "end_time": 108420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This decision is due to the fact that the International Red Cross stated that it was unable to receive the prisoners due to the lack of guarantees to do so due to the refusal of the Christian Democratic Military Junta and the military high command to recognize the existence of prisoners of war. The decision to release the August prisoners became effective on December 28 of this year, with the exception of the soldiers incorporated into our ranks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1a51759b-a201-4cb3-b8c2-42dad7d85bba"
+    },
+    {
+      "start_time": 108480,
+      "end_time": 110520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The companions Pablo Arana Pacheco, Juan Antonio Peñate, Santos Diego Diaz, Luis Sandoval and Luis Alonso Torres. This news was not made known before based on a request from the former prisoners themselves to maintain three days of secrecy to protect their movements since if the junta found out they would search for them to kill them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "ba3f6005-cfb8-4ae5-a5d4-c5d53dd9781a"
+    },
+    {
+      "start_time": 110580,
+      "end_time": 113280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The same decision has been made with the prisoners taken in La Guacamaya. They will be released in the next 72 hours. They are 25-year-old subsergeant Manuel Antonio Rosales. Gerber soldier Francisco Lemus Castillo, 18 years old. Soldier Gilberto Morales Barrera, 18 years old. Soldier Nelson Ernesto Orellana, 25 years old. Soldier Alberto Martínez Villalta, 15 years old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Capturados",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b0b5ba08-910d-4fc5-a41e-e2a20a4276c4"
+    },
+    {
+      "start_time": 113340,
+      "end_time": 114480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We report that two wounded prisoners died due to the severity of their injuries. Their names are unknown since they lacked documents that would identify them. They died approximately an hour after their capture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "b9053697-243a-48b6-8c35-605a122a924a"
+    },
+    {
+      "start_time": 114540,
+      "end_time": 117120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We clarify that this time we have not received any response from the International Red Cross regarding this case. Nor has he been present to recognize the victims of the massacre and a crowd of terrified residents who are concentrated in the Llano Alegre hamlet with the fear that they will be murdered by genocidal troops of the Christian Democratic Military Junta who are spreading rumors of a new offensive. against the population of Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "d2c78789-8eb2-48b7-9006-992891bc18fd"
+    },
+    {
+      "start_time": 117180,
+      "end_time": 118440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We call on the International Red Cross, all humanitarian organizations concerned, as well as the international press to remain vigilant and attentive to the fate of these soldiers and their families."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "3edda449-df1e-44db-9121-12bb45741c01"
+    },
+    {
+      "start_time": 118500,
+      "end_time": 120240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We also reiterate to the relatives of Lieutenant José León Delgado Escobar, as well as the relatives of the 17 soldiers killed in combat in La Guacamaya, that through the International Red Cross they can exhume the bodies for recognition and transfer where they consider appropriate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bajas",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "de0a1608-5b1f-4c17-a259-d71b7b0d923b"
+    },
+    {
+      "start_time": 120300,
+      "end_time": 122640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We also reiterate once again the call to the International Red Cross, the Commission on Human Rights of the Organization of American States, the Commission on Human Rights of the United Nations and the international press to verify the unpunished genocide of more than 900 Salvadorans in the towns of Cerro Pando, Agua Fría, Poza Honda, Los Toriles, El Mozote and others in the department of Morazán."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cruz Roja",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "59f0a224-f05c-476a-9cd7-394162f83899"
+    },
+    {
+      "start_time": 122700,
+      "end_time": 124680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We ask these organizations and entities to be the eyes of the world conscience so that the rights of an entire people are not trampled on in such a blatant manner and that what is a blatant support and support for a massive crime."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "70a8e8b9-73f2-4931-bebd-f51c40bbdcdc"
+    },
+    {
+      "start_time": 124740,
+      "end_time": 127500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When a Government has no policy other than genocide and no more support than a military apparatus and foreign interference, there is no alternative but to fight with weapons in hand alongside this heroic people and the search for unity of efforts. with all conscious and democratic sectors of the country to achieve the establishment of a regime of true democratic freedoms and begin a process of economic construction and social and political stabilization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1ddd8092-032b-4284-9bdb-797064e94f7c"
+    },
+    {
+      "start_time": 127560,
+      "end_time": 129300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is our cry to the conscience of all the people of the world. That is our cry to get the interventionist hands out of our country. That is our reiteration of the call to humanitarian organizations and entities to verify this crude reality of genocide as a policy of the Christian Democrat Board."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "8f37c339-3255-44a2-a288-e6508619d536"
+    },
+    {
+      "start_time": 129360,
+      "end_time": 130860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We reiterate again to our people the profound decision to fight unwaveringly until we win, visualizing 1982 as the year of great democratic and popular victories. United to fight until final victory, revolution or death, we will win."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "ca88b4cb-3df3-4195-a733-a8de9dc2ff51"
+    },
+    {
+      "start_time": 130920,
+      "end_time": 132960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By the political-military command of the Francisco Sánchez Eastern Front, northern zone. Commander Jorge Meléndez, \"Jonás\", military political officer of the general command. Commander Heleno Castro, \"Carmelo\", chief of staff. Command Bruno Caballero, \"Quincho\", head of logistics. Commander Santos Lino Caballero, \"Melo\". Commander William Pascasio first chief of operations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "4f66de5f-cae7-4195-ad7f-383fd86f2bc0"
+    },
+    {
+      "start_time": 133020,
+      "end_time": 134820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Commander Silvio de Jesús Argueta, \"Licho\", head of operations. Comrade José Leoncio Pichinte politically responsible for the northeastern front and politically responsible for Venceremos. Also approved by Commander Juan Ramón Medrano, \"Balta\". Morazán, December 31, 1981."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contexto Político",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "5bcf1572-b389-4fee-8138-9f8eebd36b34"
+    },
+    {
+      "start_time": 134880,
+      "end_time": 136740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We call on our Radio Venceremos listeners to tune into the freedom signal of the Farabundo Martí National Liberation Front on this same frequency tonight at 10:00 PM when we will broadcast a mass officiated by our colleague and priest Rogelio Ponseele. Mass offered in honor of the heroes and martyrs who fell for national liberation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "8c32ef26-e31d-4383-b51b-272069e68448"
+    },
+    {
+      "start_time": 136800,
+      "end_time": 137460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the deep crucible of the homeland\nthe popular clamor rises;\nThe new dawn is already announced,\nall of Chile begins to sing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "b4e0dacf-a2ce-433b-a15f-73ce25ac9c5e"
+    },
+    {
+      "start_time": 137520,
+      "end_time": 138300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With full conviction of the popular victory, Radio Venceremos, official voice of the Farabundo Martí National Liberation Front, comes to the end of this hour's broadcast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "57b33303-6a59-4bd9-9d84-3c933b174631"
+    },
+    {
+      "start_time": 138360,
+      "end_time": 138480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "...let's face death first..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "316b2f11-0a6c-4249-898e-0414ee7ed7e0"
+    },
+    {
+      "start_time": 138540,
+      "end_time": 140640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We remember that tonight at 10:00 PM, Radio Venceremos will broadcast a mass in tribute to the martyrs and heroes fallen by the Salvadoran revolution. We repeat, Radio Venceremos tonight at 10:00 PM will broadcast a mass dedicated to the heroes and martyrs fallen by the Salvadoran revolution. Tonight at 10:00 PM on Radio Venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "e6b9366b-671d-4f06-9a67-6c32e25cdcc3"
+    },
+    {
+      "start_time": 140700,
+      "end_time": 141000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "…Peasants, soldiers and workers,\nthe woman of the country too..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "74c6f50d-7a43-49ec-8266-44c9ecb640f7"
+    },
+    {
+      "start_time": 141060,
+      "end_time": 143100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Expression of popular power over controlled territories in the department of Morazán, Radio Venceremos broadcasts every day from six to seven in the morning and from six to seven in the afternoon through the international frequency of 40 meters, seven megahertz. We have broadcast this December 31 from El Salvador, Central America, a territory in combat against oppression and imperialism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1ae0f551-3b57-4f21-a8e6-86dce822033e"
+    },
+    {
+      "start_time": 143160,
+      "end_time": 143640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will win,\nWe will win.\nWe will know how to overcome misery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "d68f7cb3-0c55-4867-bfb4-55c914230a5f"
+    },
+    {
+      "start_time": 143700,
+      "end_time": 143820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1982--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2b2a6879-00ee-41d2-9d8b-065ac4cd9ea5"
+    },
+    {
+      "start_time": 143880,
+      "end_time": 144060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "United to Fight until final victory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "51948c24-d5fe-46cb-bd65-420cf0aba8fa"
+    },
+    {
+      "start_time": 144120,
+      "end_time": 144240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Revolution or death, we will win."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "2ea444fd-c1a1-40a6-8fab-6bf8c1d5efd1"
+    },
+    {
+      "start_time": 144240,
+      "end_time": 144300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will win!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Radio Venceremos",
+          "category": "Tema"
+        }
+      ],
+      "uuid": "1f7fb49a-e8dc-44d9-b753-738493f502d9"
+    },
+    {
+      "start_time": 144300,
+      "end_time": 144660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will win,\nWe will know how to overcome misery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Música",
+          "category": "Sonidos"
+        }
+      ],
+      "uuid": "627a9a95-fa71-45b8-9c80-db0f72274adc"
+    }
+  ],
   "event_id": "50f5e3df-3123-4810-9ffa-33f61d16d1e5",
   "set": "English Annotation",
   "source_id": "6c1ac2d6-3775-4bcd-980b-578d5fb2816c"
